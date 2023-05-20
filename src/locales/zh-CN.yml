@@ -1,0 +1,30 @@
+commands:
+  phigros:
+    bind:
+      description: 绑定 Phigros 账号
+      usage: |
+        1. 获取 SessionToken，请前往 https://mivik.gitee.io/pgr-bot-help/index.html 查看 token 获取方法。（注意！此机器人和本机器人使用的不是同一套指令，该机器人的指令对本机器人不一定生效！）
+        2. 将获取到的 SessionToken 使用本指令绑定。
+      examples: 使用举例：“绑定 sndoksa123jc189390d0cd1qp”
+      messages:
+        invalid: 错误的 SessionToken
+        success: 绑定成功，记得撤回 SessionToken 哦~
+      shortcuts:
+        bind: 绑定
+    unbind:
+      description: 解绑 Phigros
+      examples: 使用举例：“解绑”
+      messages:
+        success: 解绑成功，Token 已删除
+      shortcuts:
+        unbind: 解绑
+    score:
+      description: 查询某首歌曲的分数
+      usage: 在指令后面加上你需要查分的歌曲或者作者名字即可查分
+      examples: 使用举例：“查分 SIGMA”
+      messages:
+        no-token: 尚未记录 SessionToken，请先使用 bind 指令
+        level-score: '{0} 等级 {1}, 分数 {2}, acc {3}%'
+        no-record: 这首歌你没有打过哦
+      shortcuts:
+        score: 查分

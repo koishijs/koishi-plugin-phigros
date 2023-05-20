@@ -1,0 +1,57 @@
+{
+  "name": "koishi-plugin-phigros",
+  "description": "Koishi plugin for everything Phigros!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koishijs/koishi-plugin-phigros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koishijs/koishi-plugin-phigros/issues"
+  },
+  "homepage": "https://github.com/koishijs/koishi-plugin-phigros",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "author": {
+    "email": "seidko.coding@gmail.com",
+    "name": "Seidko",
+    "url": "https://github.com/Seidko"
+  },
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "AGPL-3.0",
+  "scripts": {
+    "build": "atsc -b"
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "koishi",
+    "plugin",
+    "phigros",
+    "score",
+    "query"
+  ],
+  "dependencies": {
+    "yauzl": "^2.10.0"
+  },
+  "peerDependencies": {
+    "koishi": "^4.12.8"
+  },
+  "devDependencies": {
+    "@types/yauzl": "^2.10.0"
+  },
+  "koishi": {
+    "description": {
+      "en": "Koishi plugin for everything Phigros!",
+      "zh": "开箱即用的 Koishi Phigros 查分 b40 插件！"
+    },
+    "service": {
+      "required": [
+        "database"
+      ]
+    }
+  }
+}
