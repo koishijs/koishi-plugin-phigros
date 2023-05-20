@@ -13,7 +13,7 @@ const key = Uint8Array.from([-24, -106, -102, -46, -91, 64, 37, -101, -105, -111
 const iv = Uint8Array.from([42, 79, -16, -118, -56, 13, 99, 7, 0, 87, -59, -107, 24, -56, 50, 83])
 
 export const levelsMap = {
-  esay: 'EZ',
+  easy: 'EZ',
   hard: 'HD',
   insane: 'IN',
   another: 'AT',

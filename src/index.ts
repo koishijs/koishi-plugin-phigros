@@ -41,7 +41,7 @@ export function apply(ctx: Context) {
       return session.text('.success')
     })
 
-    ctx.command('phigros.bind <token:string>', { checkArgCount: true })
+  ctx.command('phigros.bind <token:string>', { checkArgCount: true })
     .shortcut('bind', { i18n: true, fuzzy: true })
     .userFields(['phiToken'])
     .action(({ session }, token) => {
