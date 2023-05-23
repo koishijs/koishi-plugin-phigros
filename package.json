@@ -9,7 +9,7 @@
     "url": "https://github.com/koishijs/koishi-plugin-phigros/issues"
   },
   "homepage": "https://github.com/koishijs/koishi-plugin-phigros",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "author": {
@@ -41,7 +41,8 @@
     "koishi": "^4.12.8"
   },
   "devDependencies": {
-    "@types/yauzl": "^2.10.0"
+    "@types/yauzl": "^2.10.0",
+    "koishi-plugin-puppeteer": "^3.5.0"
   },
   "koishi": {
     "description": {
@@ -50,7 +51,8 @@
     },
     "service": {
       "required": [
-        "database"
+        "database",
+        "puppeteer"
       ]
     }
   }
