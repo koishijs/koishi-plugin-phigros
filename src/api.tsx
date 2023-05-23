@@ -10,7 +10,8 @@ const levels = {
   AT: 1 << 3,
 }
 
-const internalName = /[ '.,]/g
+const iName = /[ .,&/?|\\~`<>:;'"\[\]{}+=*@#$%^&()-]/g
+const iArtist = /[ .,&/?|\\~`<>:;'"\[\]{}+=*@#$%^&()]/g
 
 const key = Uint8Array.from([-24, -106, -102, -46, -91, 64, 37, -101, -105, -111, -112, -117, -120, -26, -65, 3, 30, 109, 33, -107, 110, -6, -42, -118, 80, -35, 85, -42, 122, -80, -110, 75])
 const iv = Uint8Array.from([42, 79, -16, -118, -56, 13, 99, 7, 0, 87, -59, -107, 24, -56, 50, 83])
@@ -149,7 +150,7 @@ export function rankingImage(level: LevelRecord) {
 }
 
 export function getSongInternalName(name: string, artist: string) {
-  return `${name.replace(internalName, '')}.${artist.replace(internalName, '')}`
+  return `${name.replace(iName, '')}.${artist.replace(iArtist, '')}`
 }
 
 export function renderScore(record: SongRecord, info: SongInfo) {
