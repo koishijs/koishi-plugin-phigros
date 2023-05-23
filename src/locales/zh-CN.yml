@@ -3,17 +3,17 @@ commands:
     alias:
       description: 为歌曲设置别名
       usage: |
-        1. 使用“设置别名 曲名”来指定要设置别名的歌
+        1. 使用“添加别名 曲名”来指定要设置别名的歌
         2. 当机器人说“请发送别名”时发送你要设置的别名
-      examples: 使用举例：“1. 设置别名 MARENOL 2. 骂人ol“
+      examples: 使用举例：“1. 添加别名 MARENOL 2. 骂人ol“
       messages:
         alias-prompt: 请发送别名
         select-song-prompt: 有多首歌符合你的关键词，请输入你要设置别名的歌的序号：
-        success: 成功为 {0} 设置别名：{1}
+        success: 成功为 {0} 添加别名：{1}
         no-song: 没有你要找的歌
         cancel: 操作取消
       shortcuts:
-        alias: 设置别名
+        alias: 添加别名
 
     bind:
       description: 绑定 Phigros 账号
