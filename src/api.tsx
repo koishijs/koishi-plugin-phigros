@@ -161,9 +161,11 @@ export function renderScore(record: SongRecord, info: SongInfo) {
     <main>
       <div id="column" class="parallelogram-column">
         <div class="no-unskew">
+          <div id="info">
+            <span id="name">{info.name}</span>
+            <span id="artist">{info.artist}</span>
+          </div>
           <div id="cover"></div>
-          <span id="name">Rrhar'il</span>
-          <span id="artist">Team Grimoire</span>
         </div>
         <div id="level-container" class="no-unskew">
           {Object.entries(record).map(([level, record]) => {
@@ -316,8 +318,12 @@ export function renderScore(record: SongRecord, info: SongInfo) {
       z-index: 1;
     }
 
-    #cover {
+    #info {
       position: relative;
+      z-index: 3;
+    }
+
+    #cover {
       width: 1000px;
       clip-path: polygon(18.8% 0, 100% 0, calc(100% - 18.8%) 100%, 0 100%);
       height: 527px;
@@ -329,16 +335,16 @@ export function renderScore(record: SongRecord, info: SongInfo) {
 
     #name {
       position: absolute;
-      top: 570px;
-      left: 115px;
+      top: 473px;
+      left: -56px;
       font-size: 30px;
       color: #FFFFFFDD;
     }
 
     #artist {
       position: absolute;
-      top: 580px;
-      right: 120px;
+      top: 483px;
+      right: 300px;
       font-size: 25px;
       color: #FFFFFFDD;
     }
