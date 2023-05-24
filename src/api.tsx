@@ -184,6 +184,8 @@ export function renderScore(record: SongRecord, info: SongInfo) {
 
     <style>{String.raw`
     @import url('https://fonts.googleapis.com/css?family=Saira');
+    @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+    @import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC');
 
     :root {
       --shadow: 0 0 10px #666
@@ -203,7 +205,7 @@ export function renderScore(record: SongRecord, info: SongInfo) {
       background-image: url('${info.thumbnail}');
       background-repeat: no-repeat;
       background-size: cover;
-      font-family: 'Saira', sans-serif;
+      font-family: 'Saira', 'Noto Sans SC', 'Noto Sans JP', sans-serif;
     }
 
     main::before{

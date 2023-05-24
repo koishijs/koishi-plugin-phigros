@@ -9,7 +9,7 @@
     "url": "https://github.com/koishijs/koishi-plugin-phigros/issues"
   },
   "homepage": "https://github.com/koishijs/koishi-plugin-phigros",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "author": {
