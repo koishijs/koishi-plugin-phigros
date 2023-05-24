@@ -5,7 +5,7 @@
 
 Koishi plugin for everything Phigros!
 
-开箱即用的 Koishi Phigros 查分 b40 插件！
+开箱即用的 Koishi Phigros 查分 b19 插件！
 
 ## 声明
 1. 本项目仅供学习交流使用，严禁用于侵犯 `PHIGROS®`、`Phigros 玩家` 以及 `南京鸽游网络有限公司` 等主体的权益用途！
