@@ -155,9 +155,6 @@ export function getSongInternalName(name: string, artist: string) {
 
 export function renderScore(record: SongRecord, info: SongInfo) {
   return <html>
-    <header>
-      <link href="https://fonts.cdnfonts.com/css/saira" rel="stylesheet" />
-    </header>
     <main>
       <div id="column" class="parallelogram-column">
         <div class="no-unskew">
@@ -186,6 +183,8 @@ export function renderScore(record: SongRecord, info: SongInfo) {
     </main>
 
     <style>{String.raw`
+    @import url('https://fonts.googleapis.com/css?family=Saira');
+
     :root {
       --shadow: 0 0 10px #666
     }
