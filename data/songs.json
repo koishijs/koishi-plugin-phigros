@@ -1,0 +1,5104 @@
+[
+  {
+    "name": "996",
+    "artist": "李化禹",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 392,
+        "charter": "RTH"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.1,
+        "combo": 453,
+        "charter": "Likey"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 996,
+        "charter": "Barbarianerman & NerSAN in the ICU"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e4/996_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e4/996_Phigros.png/300px-996_Phigros.png",
+    "illustrator": "笔记RE",
+    "id": "996.李化禹"
+  },
+  {
+    "name": "Glaciaxion",
+    "artist": "SunsetRay",
+    "chart": {
+      "EZ": {
+        "level": 1,
+        "difficulty": 1,
+        "combo": 66,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 418,
+        "charter": "Arenn Saki"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.5,
+        "combo": 729,
+        "charter": "Barbarianerman vs. NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/0b/Glaciaxion_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/0b/Glaciaxion_Phigros.png/300px-Glaciaxion_Phigros.png",
+    "illustrator": "艾若拉",
+    "id": "Glaciaxion.SunsetRay"
+  },
+  {
+    "name": "Eradication Catastrophe",
+    "artist": "NceS",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 181,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 200,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.7,
+        "combo": 593,
+        "charter": "Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/60/Eradication_Catastrophe_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/60/Eradication_Catastrophe_Phigros.png/300px-Eradication_Catastrophe_Phigros.png",
+    "illustrator": "海产",
+    "id": "EradicationCatastrophe.NceS"
+  },
+  {
+    "name": "Credits",
+    "artist": "Frums",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 188,
+        "charter": "Ctymax"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.4,
+        "combo": 355,
+        "charter": "Ctymax"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 535,
+        "charter": "Ctymax"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2b/Credits.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2b/Credits.png/300px-Credits.png",
+    "illustrator": "Ctymax",
+    "id": "Credits.Frums"
+  },
+  {
+    "name": "Dlyrotz",
+    "artist": "Likey",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 392,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.4,
+        "combo": 458,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 584,
+        "charter": "XMT小咩兔 vs Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/0c/Dlyrotz_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/0c/Dlyrotz_Phigros.png/300px-Dlyrotz_Phigros.png",
+    "illustrator": "DoublePian",
+    "id": "Dlyrotz.Likey"
+  },
+  {
+    "name": "Engine x Start!! (melody mix)",
+    "artist": "CrossingSound",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 126,
+        "charter": "Arenn Saki&Catcats"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.5,
+        "combo": 262,
+        "charter": "Arenn Saki&Catcats"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.4,
+        "combo": 433,
+        "charter": "Arenn Saki&Catcats"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/9e/Engine_x_Start_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/9e/Engine_x_Start_Phigros.png/300px-Engine_x_Start_Phigros.png",
+    "illustrator": "赤芽",
+    "id": "EnginexStartmelodymix.CrossingSound"
+  },
+  {
+    "name": "光",
+    "artist": "姜米條",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 249,
+        "charter": "Catcats & 百九十八"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.4,
+        "combo": 453,
+        "charter": "Catcats & 百九十八"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.8,
+        "combo": 517,
+        "charter": "Catcats & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/57/%E5%85%89_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/57/%E5%85%89_Phigros.png/300px-%E5%85%89_Phigros.png",
+    "illustrator": "winder",
+    "id": "光.姜米條"
+  },
+  {
+    "name": "Winter↑cube↓",
+    "artist": "Ctymax feat. NceS",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 401,
+        "charter": "小鹏 fixed by Barbarianerman"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 696,
+        "charter": "小鹏 fixed by Barbarianerman"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.4,
+        "combo": 733,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/7c/Winter_Cube_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/7c/Winter_Cube_Phigros.png/300px-Winter_Cube_Phigros.png",
+    "illustrator": "翠冷兮",
+    "id": "Wintercube.CtymaxfeatNceS"
+  },
+  {
+    "name": "混乱-Confusion",
+    "artist": "OnlyMyBlackScore",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 290,
+        "charter": "月下樱&115"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 602,
+        "charter": "月下樱&115"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 978,
+        "charter": "XMT小咩兔"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/6f/Confusion_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/6f/Confusion_Phigros.png/300px-Confusion_Phigros.png",
+    "illustrator": "L-sp4",
+    "id": "混乱Confusion.OnlyMyBlackScore"
+  },
+  {
+    "name": "Cipher: /2&//<|0",
+    "artist": "Tetrajectory feat. Ctymax",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 401,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.7,
+        "combo": 473,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 1041,
+        "charter": "Barbarianerman feat. Gausbon"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5a/Cipher_%E6%96%B0_Phigros.JPG",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5a/Cipher_%E6%96%B0_Phigros.JPG/300px-Cipher_%E6%96%B0_Phigros.JPG",
+    "illustrator": "IvyTowers",
+    "id": "Cipher20.TetrajectoryfeatCtymax"
+  },
+  {
+    "name": "FULi AUTO SHOOTER",
+    "artist": "MYUKKE.",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 165,
+        "charter": "AUTO. SHOOTER."
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.3,
+        "combo": 537,
+        "charter": "AUTO. SHOOTER."
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 843,
+        "charter": "AUTO. SHOOTER. fixed by Ctymax"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/97/FULi_Phigros_2048%2A1080.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/97/FULi_Phigros_2048%2A1080.png/300px-FULi_Phigros_2048%2A1080.png",
+    "illustrator": "ViscerA & Psycholine",
+    "id": "FULiAUTOSHOOTER.MYUKKE"
+  },
+  {
+    "name": "HumaN",
+    "artist": "SOTUI",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 182,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.8,
+        "combo": 382,
+        "charter": "阿爽"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.6,
+        "combo": 554,
+        "charter": "CN_115+TangScend"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/8a/HumaN_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/8a/HumaN_Phigros.png/300px-HumaN_Phigros.png",
+    "illustrator": "CH",
+    "id": "HumaN.SOTUI"
+  },
+  {
+    "name": "[PRAW]",
+    "artist": "BlueWind",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 419,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 692,
+        "charter": "阿爽"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.1,
+        "combo": 1171,
+        "charter": "晨 vs. 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/be/PRAW_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/be/PRAW_Phigros.png/300px-PRAW_Phigros.png",
+    "illustrator": "老张",
+    "id": "PRAW.Bluewind"
+  },
+  {
+    "name": "Cereris",
+    "artist": "SunsetRay/NceS",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 490,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 701,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 898,
+        "charter": "StupiGGy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/91/Cereris_Phigros_%E9%AB%98%E6%B8%85.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/91/Cereris_Phigros_%E9%AB%98%E6%B8%85.png/300px-Cereris_Phigros_%E9%AB%98%E6%B8%85.png",
+    "illustrator": "IvyTowers",
+    "id": "Cereris.SunsetRayNceS"
+  },
+  {
+    "name": "Pixel Rebelz",
+    "artist": "Normal1zer",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 250,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.9,
+        "combo": 698,
+        "charter": "阿爽"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.1,
+        "combo": 941,
+        "charter": "NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c4/Pixel_Rebelz_Phigros_Old.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c4/Pixel_Rebelz_Phigros_Old.png/300px-Pixel_Rebelz_Phigros_Old.png",
+    "illustrator": "艾是Abby",
+    "id": "PixelRebelz.Normal1zer"
+  },
+  {
+    "name": "Non-Melodic Ragez(MUG Edit)",
+    "artist": "Normal1zer",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 347,
+        "charter": "Clutter"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 675,
+        "charter": "Clutter"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1235,
+        "charter": "分化者 fixed by Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/fe/Non-Melodic_Ragez_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/fe/Non-Melodic_Ragez_Phigros.png/300px-Non-Melodic_Ragez_Phigros.png",
+    "illustrator": "cycats",
+    "id": "NonMelodicRagezMUGEdit.Normal1zer"
+  },
+  {
+    "name": "Sultan Rage",
+    "artist": "MonstDeath",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 159,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.5,
+        "combo": 334,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.5,
+        "combo": 485,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/08/Sultan_Rage_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/08/Sultan_Rage_Phigros.png/300px-Sultan_Rage_Phigros.png",
+    "illustrator": "笔记RE",
+    "id": "SultanRage.MonstDeath"
+  },
+  {
+    "name": "Class Memories",
+    "artist": "Antistar feat. Ctymax",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 393,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.4,
+        "combo": 771,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.5,
+        "combo": 1194,
+        "charter": "JKy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/81/Class_Memories_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/81/Class_Memories_Phigros.png/300px-Class_Memories_Phigros.png",
+    "illustrator": "xperz",
+    "id": "ClassMemories.AntistarfeatCtymax"
+  },
+  {
+    "name": "-SURREALISM-",
+    "artist": "Itsuki",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 338,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.4,
+        "combo": 571,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.4,
+        "combo": 914,
+        "charter": "-StupiGGy- fixed by 晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/19/SURREALISM_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/19/SURREALISM_Phigros.png/300px-SURREALISM_Phigros.png",
+    "illustrator": "喵n葵",
+    "id": "SURREALISM.Itsuki"
+  },
+  {
+    "name": "Bonus Time",
+    "artist": "Megalo_PaleWhite",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 190,
+        "charter": "Uvernight fixed by Barbarianerman"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.3,
+        "combo": 319,
+        "charter": "Uvernight fixed by Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.2,
+        "combo": 689,
+        "charter": "Uvernight fixed by 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/13/Bonus_Time_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/13/Bonus_Time_Phigros.png/300px-Bonus_Time_Phigros.png",
+    "illustrator": "笔记RE",
+    "id": "BonusTime.MegaloPaleWhite"
+  },
+  {
+    "name": "ENERGY SYNERGY MATRIX",
+    "artist": "Tanchiky",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 450,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.5,
+        "combo": 580,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 750,
+        "charter": "B B M pow"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d9/EnergySynergyMatrix.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d9/EnergySynergyMatrix.png/300px-EnergySynergyMatrix.png",
+    "illustrator": "Karameru",
+    "id": "ENERGYSYNERGYMATRIX.Tanchiky"
+  },
+  {
+    "name": "NYA!!!(Phigros ver.)",
+    "artist": "FLuoRiTe/姜米條",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2,
+        "combo": 122,
+        "charter": "HCC!!!"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.6,
+        "combo": 428,
+        "charter": "HCC!!!"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.9,
+        "combo": 666,
+        "charter": "HCC!!!"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/78/Nya_221_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/78/Nya_221_Phigros.png/300px-Nya_221_Phigros.png",
+    "illustrator": "NEKO&海产",
+    "id": "NYA.FLuoRiTe姜米條"
+  },
+  {
+    "name": "JunXion Between Life And Death(VIP Mix)",
+    "artist": "1N6Fs",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 262,
+        "charter": "鲲&百九十八"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.7,
+        "combo": 593,
+        "charter": "鲲&百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.3,
+        "combo": 722,
+        "charter": "鲲&百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/51/JunXion_%E6%96%B0_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/51/JunXion_%E6%96%B0_Phigros.jpeg/300px-JunXion_%E6%96%B0_Phigros.jpeg",
+    "illustrator": "IvyTowers",
+    "id": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs"
+  },
+  {
+    "name": "cryout",
+    "artist": "Ju_E",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 221,
+        "charter": "Ctymax"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.9,
+        "combo": 529,
+        "charter": "Ctymax"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 733,
+        "charter": "Ctymax"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/68/Cryout_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/68/Cryout_Phigros.png/300px-Cryout_Phigros.png",
+    "illustrator": "Haight",
+    "id": "cryout.JuE"
+  },
+  {
+    "name": "Reimei",
+    "artist": "影虎。",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 325,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.9,
+        "combo": 644,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.1,
+        "combo": 983,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/61/Reimei_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/61/Reimei_Phigros.png/300px-Reimei_Phigros.png",
+    "illustrator": "英英英",
+    "id": "Reimei.影虎"
+  },
+  {
+    "name": "尊師 ～The Guru～",
+    "artist": "rider",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 386,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 565,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 738,
+        "charter": "奥術 ~The Empery~"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5e/The_Guru_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5e/The_Guru_Phigros.png/300px-The_Guru_Phigros.png",
+    "illustrator": "1B",
+    "id": "尊師TheGuru.rider"
+  },
+  {
+    "name": "Spasmodic",
+    "artist": "姜米條☆颶風~♫元力上人♫",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 637,
+        "charter": "無極☆雷鳴~♫死の序曲♫"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.6,
+        "combo": 904,
+        "charter": "無極☆雷鳴~♫死の序曲♫"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 1389,
+        "charter": "無極☆雷鳴~♫死の序曲♫"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.3,
+        "combo": 1671,
+        "charter": "無極☆雷鳴~♫死の序曲♫"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/ce/Spasmodic.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/ce/Spasmodic.png/300px-Spasmodic.png",
+    "illustrator": "昔璃☆暴雨~♫危難聖帝♫",
+    "id": "Spasmodic.姜米條颶風元力上人"
+  },
+  {
+    "name": "Leave All Behind",
+    "artist": "rider",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 210,
+        "charter": "亚树见希子 & 百九十八"
+      },
+      "HD": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 394,
+        "charter": "亚树见希子 & 百九十八"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.7,
+        "combo": 523,
+        "charter": "亚树见希子 & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/02/LeaveAllBehind_Phigros.jpg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/02/LeaveAllBehind_Phigros.jpg/300px-LeaveAllBehind_Phigros.jpg",
+    "illustrator": "笔记RE",
+    "id": "LeaveAllBehind.rider"
+  },
+  {
+    "name": "Colorful Days♪",
+    "artist": "P4koo feat. つゆり花鈴",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 156,
+        "charter": "阿♪爽"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 186,
+        "charter": "阿♪爽"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.7,
+        "combo": 407,
+        "charter": "阿♪爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/b2/Colorful_Days_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/b2/Colorful_Days_Phigros.png/300px-Colorful_Days_Phigros.png",
+    "illustrator": "Doro-nyong & Ratif",
+    "id": "ColorfulDays.P4koofeatつゆり花鈴"
+  },
+  {
+    "name": "micro.wav",
+    "artist": "dandeless",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 196,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 459,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 649,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c9/Micro.wav_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c9/Micro.wav_Phigros.png/300px-Micro.wav_Phigros.png",
+    "illustrator": "snake.ribs",
+    "id": "microwav.dandeless"
+  },
+  {
+    "name": "重生",
+    "artist": "姜米條",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 354,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.3,
+        "combo": 650,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 900,
+        "charter": "Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/76/%E9%87%8D%E7%94%9F_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/76/%E9%87%8D%E7%94%9F_Phigros.png/300px-%E9%87%8D%E7%94%9F_Phigros.png",
+    "illustrator": "昔璃&TNiK",
+    "id": "重生.姜米條"
+  },
+  {
+    "name": "NO ONE YES MAN",
+    "artist": "MYUKKE.",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 394,
+        "charter": "Ctymax"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 612,
+        "charter": "晨"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.4,
+        "combo": 844,
+        "charter": "晨 vs. Ctymax"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/25/NO_ONE_YES_MAN_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/25/NO_ONE_YES_MAN_Phigros.png/300px-NO_ONE_YES_MAN_Phigros.png",
+    "illustrator": "青鸟",
+    "id": "NOONEYESMAN.MYUKKE"
+  },
+  {
+    "name": "望影の方舟Six",
+    "artist": "Se-U-Ra",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 276,
+        "charter": "六回目Traveler Scend"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.9,
+        "combo": 526,
+        "charter": "六回目Traveler Scend"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 1066,
+        "charter": "六回目Traveler Scend as \"Knight of Arq\""
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e2/Houyou_no_hakobune_Six_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e2/Houyou_no_hakobune_Six_Phigros.png/300px-Houyou_no_hakobune_Six_Phigros.png",
+    "illustrator": "鲸弑",
+    "id": "望影の方舟Six.SeURa"
+  },
+  {
+    "name": "Igallta",
+    "artist": "Se-U-Ra",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 414,
+        "charter": "信仰の剣『生』"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.7,
+        "combo": 601,
+        "charter": "平川の剣『士』"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.6,
+        "combo": 1018,
+        "charter": "夜明の剣『靈』"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.7,
+        "combo": 1114,
+        "charter": "断罪の剣『神』"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/60/Igallta_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/60/Igallta_Phigros.png/300px-Igallta_Phigros.png",
+    "illustrator": "Se-U-Ra",
+    "id": "Igallta.SeURa"
+  },
+  {
+    "name": "Clock Paradox",
+    "artist": "WyvernP",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 188,
+        "charter": "Barbarianerman vs. Alloces"
+      },
+      "HD": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 312,
+        "charter": "Barbarianerman vs. Alloces"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.6,
+        "combo": 520,
+        "charter": "Barbarianerman vs. Alloces"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/71/Clock_Paradox.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/71/Clock_Paradox.jpeg/300px-Clock_Paradox.jpeg",
+    "illustrator": "汉堡",
+    "id": "ClockParadox.WyvernP"
+  },
+  {
+    "name": "Chronologika",
+    "artist": "Hundotte",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 271,
+        "charter": "TimiTini"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.8,
+        "combo": 456,
+        "charter": "XMT小咩兔"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.9,
+        "combo": 776,
+        "charter": "Ctymax vs. Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/b5/Chronologika_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/b5/Chronologika_Phigros.jpeg/300px-Chronologika_Phigros.jpeg",
+    "illustrator": "幽灵星",
+    "id": "Chronologika.Hundotte"
+  },
+  {
+    "name": "Nick of Time",
+    "artist": "P4koo",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 328,
+        "charter": "晨 vs. XMT小咩兔"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.1,
+        "combo": 429,
+        "charter": "晨 vs. XMT小咩兔"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 745,
+        "charter": "NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/10/Nick_of_Time_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/10/Nick_of_Time_Phigros.jpeg/300px-Nick_of_Time_Phigros.jpeg",
+    "illustrator": "青鸟",
+    "id": "NickofTime.P4koo"
+  },
+  {
+    "name": "Chronomia",
+    "artist": "Lime",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 338,
+        "charter": "Pcat"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 11.1,
+        "combo": 663,
+        "charter": "Rikko"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 992,
+        "charter": "时の希 & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/bb/Chronomia_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/bb/Chronomia_Phigros.jpeg/300px-Chronomia_Phigros.jpeg",
+    "illustrator": "inukoro",
+    "id": "Chronomia.Lime"
+  },
+  {
+    "name": "Chronos Collapse - La Campanella",
+    "artist": "SunsetRay",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 350,
+        "charter": "Pcat『Scatter』"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.2,
+        "combo": 773,
+        "charter": "阿爽『Destroy』"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.9,
+        "combo": 1500,
+        "charter": "NerSAN vs. 阿爽『Collapse』"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/6d/CCLC_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/6d/CCLC_Phigros.jpeg/300px-CCLC_Phigros.jpeg",
+    "illustrator": "老张",
+    "id": "ChronosCollapseLaCampanella.SunsetRay"
+  },
+  {
+    "name": "Rrhar'il",
+    "artist": "Team Grimoire",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 446,
+        "charter": "RDRT -p 19:08:31"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.7,
+        "combo": 700,
+        "charter": "RDRT -p 20:02:21"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 1300,
+        "charter": "RDRT -p 20:08:31"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.8,
+        "combo": 1300,
+        "charter": "RWND -p 16493:62786:92551"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/a9/Rrhar%E2%80%99il_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/a9/Rrhar%E2%80%99il_Phigros.jpeg/300px-Rrhar%E2%80%99il_Phigros.jpeg",
+    "illustrator": "犀牛坨动画工坊",
+    "id": "Rrharil.TeamGrimoire"
+  },
+  {
+    "name": "Crave Wave",
+    "artist": "LandRoot",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 177,
+        "charter": "Likey"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.2,
+        "combo": 396,
+        "charter": "Likey"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 816,
+        "charter": "Likey feat. 198"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5a/Crave_Wave_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5a/Crave_Wave_Phigros.png/300px-Crave_Wave_Phigros.png",
+    "illustrator": "笔记RE",
+    "id": "CraveWave.LandRoot"
+  },
+  {
+    "name": "The Chariot ~REVIIVAL~",
+    "artist": "Attoclef",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 520,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.2,
+        "combo": 660,
+        "charter": "Alloces"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 1009,
+        "charter": "Ctymax drives in BlindForest"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2b/The_Chariot_~REVIIVAL~_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2b/The_Chariot_~REVIIVAL~_Phigros.png/300px-The_Chariot_~REVIIVAL~_Phigros.png",
+    "illustrator": "翠冷兮",
+    "id": "TheChariotREVIIVAL.Attoclef"
+  },
+  {
+    "name": "Luminescence",
+    "artist": "米虾Fomiki & 初云CLoudie",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 443,
+        "charter": "XMT小咩兔"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.2,
+        "combo": 689,
+        "charter": "XMT小咩兔"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 987,
+        "charter": "Pcat & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/de/Luminescence_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/de/Luminescence_Phigros.png/300px-Luminescence_Phigros.png",
+    "illustrator": "子狼",
+    "id": "Luminescence.米虾Fomiki初云CLoudie"
+  },
+  {
+    "name": "Retribution",
+    "artist": "nm-y & Kry.exe",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 555,
+        "charter": "NerSAN"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 868,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1358,
+        "charter": "Ner as \"SPΔDE\""
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e1/Retribution_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e1/Retribution_Phigros.png/300px-Retribution_Phigros.png",
+    "illustrator": "NerSAN",
+    "id": "Retribution.nmyKryexe"
+  },
+  {
+    "name": "DESTRUCTION 3,2,1",
+    "artist": "Normal1zer vs. Broken Nerdz",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 1060,
+        "charter": "{Demolition,Devastation,Destruction}"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.9,
+        "combo": 1250,
+        "charter": "{Devastation,Destruction}"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.9,
+        "combo": 1532,
+        "charter": "{Destruction}"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.6,
+        "combo": 2330,
+        "charter": "∅"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2f/DESTRUCTION_3%2C2%2C1_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2f/DESTRUCTION_3%2C2%2C1_Phigros.png/300px-DESTRUCTION_3%2C2%2C1_Phigros.png",
+    "illustrator": "rN",
+    "id": "DESTRUCTION321.Normal1zervsBrokenNerdz"
+  },
+  {
+    "name": "Distorted Fate",
+    "artist": "Sakuzyo",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 594,
+        "charter": "De Fiance"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.9,
+        "combo": 970,
+        "charter": "Doubt Ful"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.9,
+        "combo": 1449,
+        "charter": "Divination Fortune"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.7,
+        "combo": 1283,
+        "charter": "unDefined Future"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/8e/Distorted_Fate_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/8e/Distorted_Fate_Phigros.png/300px-Distorted_Fate_Phigros.png",
+    "illustrator": "knife美工刀",
+    "id": "DistortedFate.Sakuzyo"
+  },
+  {
+    "name": "Ποσειδών",
+    "artist": "1112 vs. Star*",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 533,
+        "charter": "Jαckψ a.k.a JKy"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.4,
+        "combo": 397,
+        "charter": "Jαckψ"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.8,
+        "combo": 450,
+        "charter": "Jαckψ feat. Βαρβαροςαντρας"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/01/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/01/%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png/300px-%CE%A0%CE%BF%CF%83%CE%B5%CE%B9%CE%B4%CF%8E%CE%BD_Phigros.png",
+    "illustrator": "老张",
+    "id": "Poseidon.1112vsStar"
+  },
+  {
+    "name": "WATER",
+    "artist": "A-39/沙包P",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 338,
+        "charter": "急流に巻き込まれ"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.4,
+        "combo": 703,
+        "charter": "対流に巻き込まれ"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 643,
+        "charter": "乱流に巻き込まれ"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/ad/WATER_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/ad/WATER_Phigros.png/300px-WATER_Phigros.png",
+    "illustrator": "knife美工刀",
+    "id": "WATER.A39沙包P"
+  },
+  {
+    "name": "Miracle Forest (VIP Mix)",
+    "artist": "Rinth_live",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 323,
+        "charter": "奇跡の希"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.8,
+        "combo": 586,
+        "charter": "奇跡の希"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 839,
+        "charter": "奇跡の希 feat. 奇跡の従"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/81/Miracle_Forest_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/81/Miracle_Forest_Phigros.png/300px-Miracle_Forest_Phigros.png",
+    "illustrator": "L-sp4",
+    "id": "MiracleForestVIPMix.Rinthlive"
+  },
+  {
+    "name": "MOBILYS",
+    "artist": "Dachs",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 311,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.7,
+        "combo": 530,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 938,
+        "charter": "StupiGGy vs. 百九十八 ft. 野从"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/45/MOBILYS_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/45/MOBILYS_Phigros.png/300px-MOBILYS_Phigros.png",
+    "illustrator": "わっふゑ",
+    "id": "MOBILYS.Dachs"
+  },
+  {
+    "name": "Lyrith -迷宮リリス-",
+    "artist": "ユメミド",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 248,
+        "charter": "Arenn Saki as \"mAze\""
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 700,
+        "charter": "Arenn Saki as \"myStery\""
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.9,
+        "combo": 1122,
+        "charter": "Arenn Saki as \"lAβyrinS\""
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.2,
+        "combo": 1236,
+        "charter": "CN_115 as \"prediCameNt\""
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/b0/Phigros_Lyrith.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/b0/Phigros_Lyrith.png/300px-Phigros_Lyrith.png",
+    "illustrator": "何呵",
+    "id": "Lyrith迷宮リリス.ユメミド"
+  },
+  {
+    "name": "Demiurge",
+    "artist": "Rabpit",
+    "chart": {
+      "EZ": {
+        "level": 1,
+        "difficulty": 1.5,
+        "combo": 100,
+        "charter": "\"Manufacturer\" ~ Rikko"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 445,
+        "charter": "\"Creator\" ~ StupiGGy"
+      },
+      "IN": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 520,
+        "charter": "\"Demiurge\" ~ Dawn"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/96/Demiurge_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/96/Demiurge_Phigros.png/300px-Demiurge_Phigros.png",
+    "illustrator": "青鸟",
+    "id": "Demiurge.Rabpit"
+  },
+  {
+    "name": "Demonkin",
+    "artist": "Forged Reigns",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 426,
+        "charter": "Alloces"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 513,
+        "charter": "Alloces"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 829,
+        "charter": "Sillyp & Alloces"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d8/Demonkin_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d8/Demonkin_Phigros.png/300px-Demonkin_Phigros.png",
+    "illustrator": "Jeffery",
+    "id": "Demonkin.ForgedReigns"
+  },
+  {
+    "name": "Re_Nascence (Psystyle Ver.)",
+    "artist": "Rinth_live",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 378,
+        "charter": "NerSAN"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 806,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 827,
+        "charter": "NerSAN & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/ef/Re_Nascence_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/ef/Re_Nascence_Phigros.png/300px-Re_Nascence_Phigros.png",
+    "illustrator": "Tsuioku",
+    "id": "Re_NascencePsystyleVer.Rinth_live"
+  },
+  {
+    "name": "Ark",
+    "artist": "kanoryo",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 290,
+        "charter": "TimiTini"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.9,
+        "combo": 523,
+        "charter": "TimiTini"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.1,
+        "combo": 726,
+        "charter": "阿爽 eat Ctymax"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/0f/Ark_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/0f/Ark_Phigros.png/300px-Ark_Phigros.png",
+    "illustrator": "MOAI WORKS",
+    "id": "Ark.kanoryo"
+  },
+  {
+    "name": "After Dawn",
+    "artist": "S9ryne",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 194,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.1,
+        "combo": 478,
+        "charter": "NerSAN feat. Pcat"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 975,
+        "charter": "BarbariaNerSAN feat. Snorkel"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/a7/After_Dawn_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/a7/After_Dawn_Phigros.png/300px-After_Dawn_Phigros.png",
+    "illustrator": "月亮酱",
+    "id": "AfterDawn.S9ryne"
+  },
+  {
+    "name": "INFiNiTE ENERZY -Overdoze-",
+    "artist": "Reku Mochizuki",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 333,
+        "charter": "while(TangScend<=TangScend);"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.4,
+        "combo": 666,
+        "charter": "while(TangScend>=TangScend);"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 888,
+        "charter": "while(TangScend==TangScend);"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.3,
+        "combo": 888,
+        "charter": "while(TangScend=TangScend);"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/95/INFiNiTE_ENERZY_-Overdoze-_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/95/INFiNiTE_ENERZY_-Overdoze-_Phigros.png/300px-INFiNiTE_ENERZY_-Overdoze-_Phigros.png",
+    "illustrator": "knife美工刀",
+    "id": "INFiNiTEENERZYOverdoze.RekuMochizuki"
+  },
+  {
+    "name": "Another Me (Rising Sun Traxx)",
+    "artist": "Neutral Moon",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 318,
+        "charter": "Another M3"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 425,
+        "charter": "Another M3"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 564,
+        "charter": "NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5c/Another_Me_%E6%96%B0_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5c/Another_Me_%E6%96%B0_Phigros.jpeg/300px-Another_Me_%E6%96%B0_Phigros.jpeg",
+    "illustrator": "IvyTowers",
+    "id": "AnotherMe.NeutralMoon"
+  },
+  {
+    "name": "mechanted",
+    "artist": "rareguy",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 184,
+        "charter": "Ctymax"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.3,
+        "combo": 500,
+        "charter": "Ctymax"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 662,
+        "charter": "Ctymax"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/ab/Mechanted_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/ab/Mechanted_Phigros.png/300px-Mechanted_Phigros.png",
+    "illustrator": "IvyTowers",
+    "id": "mechanted.rareguy"
+  },
+  {
+    "name": "life flashes before weeb eyes",
+    "artist": "BilliumMoto",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 567,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.9,
+        "combo": 960,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 1065,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/1a/Life_flashes_before_weeb_eyes_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/1a/Life_flashes_before_weeb_eyes_Phigros.png/300px-Life_flashes_before_weeb_eyes_Phigros.png",
+    "illustrator": "百九十八",
+    "id": "lifeflashesbeforeweebeyes.BilliumMoto"
+  },
+  {
+    "name": "Break Through The Barrier",
+    "artist": "lixound",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 419,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.8,
+        "combo": 581,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 1090,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/46/Break_Through_The_Barrier_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/46/Break_Through_The_Barrier_Phigros.png/300px-Break_Through_The_Barrier_Phigros.png",
+    "illustrator": "Xquid",
+    "id": "BreakThroughTheBarrier.lixound"
+  },
+  {
+    "name": "Chronostasis",
+    "artist": "黒皇帝",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 291,
+        "charter": "Uvernight"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.2,
+        "combo": 821,
+        "charter": "Uvernight"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1148,
+        "charter": "Gausbon"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/6b/Chronostasis_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/6b/Chronostasis_Phigros.png/300px-Chronostasis_Phigros.png",
+    "illustrator": "Sand",
+    "id": "Chronostasis.黒皇帝"
+  },
+  {
+    "name": "Infinity Heaven",
+    "artist": "HyuN",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 164,
+        "charter": "晨 vs 阿爽"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.4,
+        "combo": 422,
+        "charter": "晨 vs 阿爽"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 1029,
+        "charter": "晨 vs 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/78/Infinity_Heaven_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/78/Infinity_Heaven_Phigros.png/300px-Infinity_Heaven_Phigros.png",
+    "illustrator": "DoublePian",
+    "id": "InfinityHeaven.HyuN"
+  },
+  {
+    "name": "Disorder",
+    "artist": "HyuN feat. YURI",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 444,
+        "charter": "Gausbon"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.8,
+        "combo": 629,
+        "charter": "Gausbon"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 918,
+        "charter": "Gausbon"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/55/Disorder_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/55/Disorder_Phigros.png/300px-Disorder_Phigros.png",
+    "illustrator": "Nabom",
+    "id": "Disorder.HyuNfeatYURI"
+  },
+  {
+    "name": "CROSS†SOUL",
+    "artist": "HyuN feat. Syepias",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 517,
+        "charter": "無†極"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.8,
+        "combo": 892,
+        "charter": "無†極 fixed by Rikko"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.9,
+        "combo": 1305,
+        "charter": "無†極"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/ee/PhigrosCROSS%E2%80%A0SOUL.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/ee/PhigrosCROSS%E2%80%A0SOUL.png/300px-PhigrosCROSS%E2%80%A0SOUL.png",
+    "illustrator": "knife美工刀",
+    "id": "CROSSSOUL.HyuNfeatSyepias"
+  },
+  {
+    "name": "GOODTEK",
+    "artist": "EBIMAYO",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 295,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.8,
+        "combo": 609,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.8,
+        "combo": 873,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e4/GOODTEK.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e4/GOODTEK.png/300px-GOODTEK.png",
+    "illustrator": "Ctymax feat. EBIMAYO",
+    "id": "GOODTEK.EBIMAYO"
+  },
+  {
+    "name": "GOODBOUNCE",
+    "artist": "EBIMAYO",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 588,
+        "charter": "Gausbounce & 晨"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 797,
+        "charter": "Gausbounce"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 898,
+        "charter": "Ctymax vs. Gausbounce"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e5/GOODBOUNCE_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e5/GOODBOUNCE_Phigros.png/300px-GOODBOUNCE_Phigros.png",
+    "illustrator": "EBIMAYO",
+    "id": "GOODBOUNCE.EBIMAYO"
+  },
+  {
+    "name": "GOODWORLD",
+    "artist": "EBIMAYO",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 215,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 805,
+        "charter": "StupiGGy"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 960,
+        "charter": "StupiGGy vs. 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/85/GOODWORLD_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/85/GOODWORLD_Phigros.png/300px-GOODWORLD_Phigros.png",
+    "illustrator": "EBIMAYO",
+    "id": "GOODWORLD.EBIMAYO"
+  },
+  {
+    "name": "GOODFORTUNE",
+    "artist": "EBIMAYO",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 455,
+        "charter": "晨"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.7,
+        "combo": 733,
+        "charter": "晨"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.4,
+        "combo": 1011,
+        "charter": "晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/81/GOODFORTUNE_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/81/GOODFORTUNE_Phigros.png/300px-GOODFORTUNE_Phigros.png",
+    "illustrator": "Ctymax",
+    "id": "GOODFORTUNE.EBIMAYO"
+  },
+  {
+    "name": "GOODRAGE",
+    "artist": "EBIMAYO",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 308,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 628,
+        "charter": "阿爽"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 1034,
+        "charter": "Ctymax vs. 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/fe/GOODRAGE_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/fe/GOODRAGE_Phigros.png/300px-GOODRAGE_Phigros.png",
+    "illustrator": "Ctymax feat. EBIMAYO",
+    "id": "GOODRAGE.EBIMAYO"
+  },
+  {
+    "name": "Initialize",
+    "artist": "iF",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 117,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 354,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 581,
+        "charter": "Arenn Saki vs. NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/a0/Initialize_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/a0/Initialize_Phigros.png/300px-Initialize_Phigros.png",
+    "illustrator": "あおお/A-ZERO,morph",
+    "id": "Initialize.iF"
+  },
+  {
+    "name": "桜樹街道",
+    "artist": "kozato snow",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 292,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 421,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.4,
+        "combo": 459,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5f/%E6%A1%9C%E6%A8%B9%E8%A1%97%E9%81%93_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5f/%E6%A1%9C%E6%A8%B9%E8%A1%97%E9%81%93_Phigros.png/300px-%E6%A1%9C%E6%A8%B9%E8%A1%97%E9%81%93_Phigros.png",
+    "illustrator": "あおお/A-ZERO,morph",
+    "id": "桜樹街道.kozatosnow"
+  },
+  {
+    "name": "Get Ready!!",
+    "artist": "iF",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 363,
+        "charter": "StupiGGy"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.7,
+        "combo": 584,
+        "charter": "StupiGGy"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 819,
+        "charter": "StupiGGy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/1a/Get_Ready_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/1a/Get_Ready_Phigros.png/300px-Get_Ready_Phigros.png",
+    "illustrator": "あおお/A-ZERO,morph",
+    "id": "GetReady.iF"
+  },
+  {
+    "name": "volcanic",
+    "artist": "DETRO a.k.a ルゼ",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 1052,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.9,
+        "combo": 985,
+        "charter": "Rikko"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 1178,
+        "charter": "Ctymax in a volcano,very delicious"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.2,
+        "combo": 1650,
+        "charter": "Alloces"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/aa/Volcanic_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/aa/Volcanic_Phigros.png/300px-Volcanic_Phigros.png",
+    "illustrator": "あおお/A-ZERO,morph",
+    "id": "volcanic.DETROakaルゼ"
+  },
+  {
+    "name": "XING",
+    "artist": "ginkiha",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 310,
+        "charter": "StupiGGy"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.9,
+        "combo": 587,
+        "charter": "StupiGGy"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.8,
+        "combo": 711,
+        "charter": "Sillyp vs. 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2c/XING_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2c/XING_Phigros.png/300px-XING_Phigros.png",
+    "illustrator": "打雷打人（青鸟modified）",
+    "id": "XING.ginkiha"
+  },
+  {
+    "name": "Final Step!",
+    "artist": "Lime",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 355,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 604,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.3,
+        "combo": 931,
+        "charter": "Barbarianerman vs. Uvernight"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/84/Final_Step%21_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/84/Final_Step%21_Phigros.png/300px-Final_Step%21_Phigros.png",
+    "illustrator": "谷地（青鸟modified）",
+    "id": "FinalStep.Lime"
+  },
+  {
+    "name": "Cthugha",
+    "artist": "USAO",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 378,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.3,
+        "combo": 697,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.6,
+        "combo": 1333,
+        "charter": "Gausbon"
+      },
+      "AT": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1444,
+        "charter": "百九十八 feat. NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d1/Cthugha_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d1/Cthugha_Phigros.png/300px-Cthugha_Phigros.png",
+    "illustrator": "谷地（青鸟modified）",
+    "id": "Cthugha.USAO"
+  },
+  {
+    "name": "Time to Night Sky (feat. Lee Yu Jin)",
+    "artist": "HyuN & KLYDIX",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 165,
+        "charter": "Rikko"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.1,
+        "combo": 559,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 540,
+        "charter": "Likey & 198ar"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/fc/Time_to_Night_Sky_%28feat._Lee_Yu_Jin%29_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/fc/Time_to_Night_Sky_%28feat._Lee_Yu_Jin%29_Phigros.png/300px-Time_to_Night_Sky_%28feat._Lee_Yu_Jin%29_Phigros.png",
+    "illustrator": "ZG",
+    "id": "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX"
+  },
+  {
+    "name": "HAZARD",
+    "artist": "Limpid",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 283,
+        "charter": "NerSAN"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.9,
+        "combo": 507,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 588,
+        "charter": "阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/cb/HAZARD_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/cb/HAZARD_Phigros.png/300px-HAZARD_Phigros.png",
+    "illustrator": "ZG",
+    "id": "HAZARD.Limpid"
+  },
+  {
+    "name": "Another Me (KALPA)",
+    "artist": "D_AAN",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 455,
+        "charter": "Pcat"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 715,
+        "charter": "Another cat"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 1449,
+        "charter": "NerSAN vs. Ctymax as \"泥头鱼\""
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c1/Another_Me_KALPA_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c1/Another_Me_KALPA_Phigros.png/300px-Another_Me_KALPA_Phigros.png",
+    "illustrator": "ZG",
+    "id": "AnotherMe.DAAN"
+  },
+  {
+    "name": "Don't Never Around",
+    "artist": "HAMA",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 308,
+        "charter": "XMT小咩兔"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.7,
+        "combo": 639,
+        "charter": "XMT小咩兔"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.6,
+        "combo": 1028,
+        "charter": "XMT小咩兔"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f0/Don%27t_Never_Around%28Phigros%29.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f0/Don%27t_Never_Around%28Phigros%29.png/300px-Don%27t_Never_Around%28Phigros%29.png",
+    "illustrator": "Arahosi",
+    "id": "DontNeverAround.HAMA"
+  },
+  {
+    "name": "RESSiSTANCE",
+    "artist": "ぐるたみん",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 499,
+        "charter": "其一 呼吸尚存的标志"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.6,
+        "combo": 744,
+        "charter": "其二 向前迈进的理由"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1026,
+        "charter": "其三 我所存在的证明"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/06/RESSiSTANCE%28Phigros%29.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/06/RESSiSTANCE%28Phigros%29.png/300px-RESSiSTANCE%28Phigros%29.png",
+    "illustrator": "LINUS",
+    "id": "RESSiSTANCE.ぐるたみん"
+  },
+  {
+    "name": "Apocalypse",
+    "artist": "アリスシャッハと魔法の楽団",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 207,
+        "charter": "R."
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.6,
+        "combo": 382,
+        "charter": "B."
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.5,
+        "combo": 676,
+        "charter": "Rikko & 198"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/69/Phisong_apocalypse.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/69/Phisong_apocalypse.png/300px-Phisong_apocalypse.png",
+    "illustrator": "Lanota © Noxy Games Inc.",
+    "id": "Apocalypse.アリスシャッハと魔法の楽団"
+  },
+  {
+    "name": "Protoflicker",
+    "artist": "Silentroom",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 259,
+        "charter": "Barbarianerman & J.R"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.6,
+        "combo": 511,
+        "charter": "RTH"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 1210,
+        "charter": "Gausbon"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c0/Phisong_protoflicker.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c0/Phisong_protoflicker.png/300px-Phisong_protoflicker.png",
+    "illustrator": "Lanota © Noxy Games Inc.",
+    "id": "Protoflicker.Silentroom"
+  },
+  {
+    "name": "Horizon Blue",
+    "artist": "Nothing But Requiem feat. Aikapin & Chiyoko",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 519,
+        "charter": "Nothing But Uvernight"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.2,
+        "combo": 733,
+        "charter": "Nothing But Likey"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 1084,
+        "charter": "Nothing But Ner & Pcat"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/36/Phisong_horizon_blue.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/36/Phisong_horizon_blue.png/300px-Phisong_horizon_blue.png",
+    "illustrator": "Lanota © Noxy Games Inc.",
+    "id": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko"
+  },
+  {
+    "name": "You are the Miserable",
+    "artist": "t+pazolite",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 486,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.7,
+        "combo": 762,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 893,
+        "charter": "We are the Miserable"
+      },
+      "AT": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1344,
+        "charter": "Pat Brick Man Mr.C & Mr.B"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/fe/Phisong_you_are_the_miserable.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/fe/Phisong_you_are_the_miserable.png/300px-Phisong_you_are_the_miserable.png",
+    "illustrator": "Lanota © Noxy Games Inc.",
+    "id": "YouaretheMiserable.tpazolite"
+  },
+  {
+    "name": "Stasis",
+    "artist": "Maozon",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 446,
+        "charter": "空の希"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.1,
+        "combo": 902,
+        "charter": "空の希"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 1322,
+        "charter": "ST AS is XMT"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.4,
+        "combo": 1700,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e1/Phisong_stasis.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e1/Phisong_stasis.png/300px-Phisong_stasis.png",
+    "illustrator": "Lanota © Noxy Games Inc.",
+    "id": "Stasis.Maozon"
+  },
+  {
+    "name": "Shadow",
+    "artist": "姜米条&SumaiLight",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 393,
+        "charter": "晨"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.3,
+        "combo": 549,
+        "charter": "晨"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 840,
+        "charter": "Sillyp vs 晨"
+      },
+      "AT": {
+        "level": 15,
+        "difficulty": 15.9,
+        "combo": 1089,
+        "charter": "J0(_)I2|\\|3y'5 3|\\||)"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/fe/Shadow_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/fe/Shadow_Phigros.png/300px-Shadow_Phigros.png",
+    "illustrator": "御坂果子",
+    "id": "Shadow.SumaiLightvs姜米條"
+  },
+  {
+    "name": "心之所向",
+    "artist": "姜米條",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 226,
+        "charter": "波之所杂"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.7,
+        "combo": 422,
+        "charter": "波之所杂"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 713,
+        "charter": "倪之所爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/87/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/87/%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png/300px-%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91_Phigros.png",
+    "illustrator": "笔记RE",
+    "id": "心之所向.姜米條"
+  },
+  {
+    "name": "inferior",
+    "artist": "姜米條",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 226,
+        "charter": "Ner, the inferior"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 489,
+        "charter": "Ner, the inferior"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 755,
+        "charter": "JKy, the inferior"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/47/Inferior.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/47/Inferior.png/300px-Inferior.png",
+    "illustrator": "群青kurara",
+    "id": "inferior.姜米條"
+  },
+  {
+    "name": "盏茗",
+    "artist": "茶鸣拾贰律",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2,
+        "combo": 83,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 176,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.3,
+        "combo": 706,
+        "charter": "NerSAN sipping XMTea"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/ec/%E7%9B%8F%E8%8C%97_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/ec/%E7%9B%8F%E8%8C%97_Phigros.png/300px-%E7%9B%8F%E8%8C%97_Phigros.png",
+    "illustrator": "茶鸣拾贰律",
+    "id": "盏茗.茶鸣拾贰律"
+  },
+  {
+    "name": "青芽",
+    "artist": "茶鸣拾贰律",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 366,
+        "charter": "生根发芽的小咩兔"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.8,
+        "combo": 520,
+        "charter": "逆流而上的小咩兔"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 1102,
+        "charter": "Hook vs._鉄"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e7/%E9%9D%92%E8%8A%BD_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e7/%E9%9D%92%E8%8A%BD_Phigros.png/300px-%E9%9D%92%E8%8A%BD_Phigros.png",
+    "illustrator": "茶鸣拾贰律",
+    "id": "青芽.茶鸣拾贰律"
+  },
+  {
+    "name": "瓷岁",
+    "artist": "茶鸣拾贰律",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 120,
+        "charter": "「流」年大顺"
+      },
+      "HD": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 309,
+        "charter": "「流」年大顺"
+      },
+      "IN": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 365,
+        "charter": "「兔」年大吉"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/be/%E7%93%B7%E5%B2%81_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/be/%E7%93%B7%E5%B2%81_Phigros.png/300px-%E7%93%B7%E5%B2%81_Phigros.png",
+    "illustrator": "茶鸣拾贰律",
+    "id": "瓷岁.茶鸣拾贰律"
+  },
+  {
+    "name": "Feast远东之宴",
+    "artist": "茶鸣拾贰律",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 600,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.9,
+        "combo": 800,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 1000,
+        "charter": "Gino"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2f/Feast%E8%BF%9C%E4%B8%9C%E4%B9%8B%E5%AE%B4_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2f/Feast%E8%BF%9C%E4%B8%9C%E4%B9%8B%E5%AE%B4_Phigros.png/300px-Feast%E8%BF%9C%E4%B8%9C%E4%B9%8B%E5%AE%B4_Phigros.png",
+    "illustrator": "茶鸣拾贰律",
+    "id": "Feast远东之宴.茶鸣拾贰律"
+  },
+  {
+    "name": "Doppelganger",
+    "artist": "LeaF",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 436,
+        "charter": "Lumiere"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.8,
+        "combo": 591,
+        "charter": "Lumiere"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 921,
+        "charter": "Gausbon"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/86/Doppelganger_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/86/Doppelganger_Phigros.png/300px-Doppelganger_Phigros.png",
+    "illustrator": "海产",
+    "id": "Doppelganger.LeaF"
+  },
+  {
+    "name": "もぺもぺ",
+    "artist": "LeaF",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 125,
+        "charter": "阿爽 fixed by Barbarianerman"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.5,
+        "combo": 289,
+        "charter": "阿爽 fixed by Barbarianerman"
+      },
+      "IN": {
+        "level": 11,
+        "difficulty": 11.1,
+        "combo": 412,
+        "charter": "阿爽"
+      },
+      "AT": {
+        "level": 14,
+        "difficulty": 14.9,
+        "combo": 720,
+        "charter": "阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/b3/Mopemope_phi.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/b3/Mopemope_phi.png/300px-Mopemope_phi.png",
+    "illustrator": "Cycats",
+    "id": "もぺもぺ.LeaF"
+  },
+  {
+    "name": "MARENOL",
+    "artist": "LeaF",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2,
+        "combo": 95,
+        "charter": "H.C.C fixed by Barbarianerman"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.2,
+        "combo": 467,
+        "charter": "H.C.C fixed by Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.2,
+        "combo": 689,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/0f/MARENOL_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/0f/MARENOL_Phigros.png/300px-MARENOL_Phigros.png",
+    "illustrator": "喵n葵",
+    "id": "MARENOL.LeaF"
+  },
+  {
+    "name": "萤火虫の怨",
+    "artist": "闫东炜",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 245,
+        "charter": "阿爽 & 百九十八"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.6,
+        "combo": 746,
+        "charter": "阿爽 & 百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.1,
+        "combo": 885,
+        "charter": "阿爽 & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/4f/%E8%90%A4%E7%81%AB%E8%99%AB%E3%81%AE%E6%80%A8_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/4f/%E8%90%A4%E7%81%AB%E8%99%AB%E3%81%AE%E6%80%A8_Phigros.png/300px-%E8%90%A4%E7%81%AB%E8%99%AB%E3%81%AE%E6%80%A8_Phigros.png",
+    "illustrator": "L-sp4",
+    "id": "萤火虫の怨.闫东炜"
+  },
+  {
+    "name": "万吨匿名信",
+    "artist": "闫东炜",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 307,
+        "charter": "猫の信 & 百九十八"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.7,
+        "combo": 648,
+        "charter": "猫の信 & 百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.3,
+        "combo": 781,
+        "charter": "猫の信 & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/15/Wandunnimingxin_new_illustration.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/15/Wandunnimingxin_new_illustration.png/300px-Wandunnimingxin_new_illustration.png",
+    "illustrator": "IvyTowers",
+    "id": "万吨匿名信.闫东炜"
+  },
+  {
+    "name": "风屿",
+    "artist": "闫东炜",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 368,
+        "charter": "Arenn Saki vs Catcats vs 百九十八"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.3,
+        "combo": 802,
+        "charter": "Arenn Saki vs Catcats vs 百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 1156,
+        "charter": "Arenn Saki vs Catcats vs 百九十八"
+      },
+      "AT": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 1236,
+        "charter": "JKy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/ef/%E9%A3%8E%E5%B1%BF_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/ef/%E9%A3%8E%E5%B1%BF_Phigros.png/300px-%E9%A3%8E%E5%B1%BF_Phigros.png",
+    "illustrator": "cycats",
+    "id": "风屿.闫东炜"
+  },
+  {
+    "name": "dB doll",
+    "artist": "YUE.STEVEN/uen",
+    "chart": {
+      "EZ": {
+        "level": 1,
+        "difficulty": 1.5,
+        "combo": 60,
+        "charter": "阿爽 fixed by Barbarianerman"
+      },
+      "HD": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 124,
+        "charter": "阿爽 fixed by Barbarianerman"
+      },
+      "IN": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 237,
+        "charter": "阿爽"
+      },
+      "AT": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 377,
+        "charter": "NerSAN & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/ca/DB_doll_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/ca/DB_doll_Phigros.png/300px-DB_doll_Phigros.png",
+    "illustrator": "何呵",
+    "id": "dBdoll.YUESTEVENuen"
+  },
+  {
+    "name": "Dash from SOUL NOTES",
+    "artist": "小红Akane，李祥晖",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 114,
+        "charter": "阿爽 fixed by Barbarianerman"
+      },
+      "HD": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 210,
+        "charter": "阿爽 fixed by Barbarianerman"
+      },
+      "IN": {
+        "level": 11,
+        "difficulty": 11.7,
+        "combo": 346,
+        "charter": "JKy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/80/Dash_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/80/Dash_Phigros.png/300px-Dash_Phigros.png",
+    "illustrator": "艾是Abby",
+    "id": "DashfromSOULNOTES.小红Akane李祥晖"
+  },
+  {
+    "name": "云女孩",
+    "artist": "符白牙/SiYFics",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 220,
+        "charter": "Cloud Catcats"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.9,
+        "combo": 538,
+        "charter": "Cloud Catcats"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.6,
+        "combo": 669,
+        "charter": "云正太"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e7/%E4%BA%91%E5%A5%B3%E5%AD%A9_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e7/%E4%BA%91%E5%A5%B3%E5%AD%A9_Phigros.png/300px-%E4%BA%91%E5%A5%B3%E5%AD%A9_Phigros.png",
+    "illustrator": "御坂果子",
+    "id": "云女孩.符白牙SiYFics"
+  },
+  {
+    "name": "Drop It from SOUL NOTES",
+    "artist": "Asuka",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 505,
+        "charter": "Drop Catcats"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.6,
+        "combo": 602,
+        "charter": "Drop Catcats"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.1,
+        "combo": 1031,
+        "charter": "NerSAN & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/4a/Drop_It_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/4a/Drop_It_Phigros.png/300px-Drop_It_Phigros.png",
+    "illustrator": "TNiK",
+    "id": "DropIt.Asuka"
+  },
+  {
+    "name": "RIPPER",
+    "artist": "Friedwav",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 520,
+        "charter": "撕裂者『無極』 fixed by 晨"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.2,
+        "combo": 704,
+        "charter": "撕裂者『無極』 fixed by 晨"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 1186,
+        "charter": "撕裂者『Alloces vs Shin』"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/21/RIPPER_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/21/RIPPER_Phigros.png/300px-RIPPER_Phigros.png",
+    "illustrator": "何呵",
+    "id": "RIPPER.Friedwav"
+  },
+  {
+    "name": "Aphasia",
+    "artist": "闫东炜",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 283,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.8,
+        "combo": 362,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.1,
+        "combo": 553,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/83/Aphasia_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/83/Aphasia_Phigros.jpeg/300px-Aphasia_Phigros.jpeg",
+    "illustrator": "笔记RE",
+    "id": "Aphasia.闫东炜"
+  },
+  {
+    "name": "开心病",
+    "artist": "闫东炜",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 399,
+        "charter": "HaraKuma"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.5,
+        "combo": 601,
+        "charter": "HaraKuma"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.2,
+        "combo": 840,
+        "charter": "Barbarianerman feat. 晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/09/%E5%BC%80%E5%BF%83%E7%97%85_Phigros_%E6%96%B0.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/09/%E5%BC%80%E5%BF%83%E7%97%85_Phigros_%E6%96%B0.png/300px-%E5%BC%80%E5%BF%83%E7%97%85_Phigros_%E6%96%B0.png",
+    "illustrator": "昔璃",
+    "id": "开心病.闫东炜"
+  },
+  {
+    "name": "華灯爱",
+    "artist": "闫东炜",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 312,
+        "charter": "HaraKuma"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.6,
+        "combo": 357,
+        "charter": "HaraKuma"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.1,
+        "combo": 520,
+        "charter": "Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/a9/%E8%8F%AF%E7%81%AF%E7%88%B1_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/a9/%E8%8F%AF%E7%81%AF%E7%88%B1_Phigros.png/300px-%E8%8F%AF%E7%81%AF%E7%88%B1_Phigros.png",
+    "illustrator": "IvyTowers",
+    "id": "華灯爱.闫东炜"
+  },
+  {
+    "name": "Find_Me",
+    "artist": "K-forest",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 465,
+        "charter": "Find_Ctymax"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.5,
+        "combo": 657,
+        "charter": "Find_Ctymax"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 836,
+        "charter": "Find_Ctymax fixed by 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/bb/Find_Me_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/bb/Find_Me_Phigros.png/300px-Find_Me_Phigros.png",
+    "illustrator": "YuKiMuMa",
+    "id": "FindMe.Kforest"
+  },
+  {
+    "name": "Sein",
+    "artist": "朔(Apo11o program vs. お月さま交響曲) ft. kuroa×荒巻",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 203,
+        "charter": "A.S.H"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 473,
+        "charter": "A.S.H"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.9,
+        "combo": 721,
+        "charter": "A.S.H&晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/b9/Sein_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/b9/Sein_Phigros.png/300px-Sein_Phigros.png",
+    "illustrator": "hideo",
+    "id": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻"
+  },
+  {
+    "name": "狂喜蘭舞",
+    "artist": "LeaF",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 472,
+        "charter": "Catcats aka. 無極 VS H.C.C. fixed by 晨"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.8,
+        "combo": 651,
+        "charter": "Catcats aka. 無極 VS H.C.C. fixed by Pcat"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 968,
+        "charter": "晨"
+      },
+      "AT": {
+        "level": 16,
+        "difficulty": 16.1,
+        "combo": 1325,
+        "charter": "Catcats aka. 無極 VS H.C.C. fixed by 野从&晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/18/Kxlw_phi.jpg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/18/Kxlw_phi.jpg/300px-Kxlw_phi.jpg",
+    "illustrator": "DoublePian",
+    "id": "狂喜蘭舞.LeaF"
+  },
+  {
+    "name": "Sparkle New Life",
+    "artist": "rider",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 305,
+        "charter": "Sparkle Ctymax"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 497,
+        "charter": "Sparkle Ctymax"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.4,
+        "combo": 684,
+        "charter": "Sparkle Ctymax fixed by 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/09/Sparkle_New_Life_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/09/Sparkle_New_Life_Phigros.png/300px-Sparkle_New_Life_Phigros.png",
+    "illustrator": "1B",
+    "id": "SparkleNewLife.rider"
+  },
+  {
+    "name": "Khronostasis Katharsis",
+    "artist": "Halv",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 369,
+        "charter": "XMT小咩兔 & Myna"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 644,
+        "charter": "XMT小咩兔 & Myna"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.2,
+        "combo": 861,
+        "charter": "StupiGGy fixed by 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f9/Khronostasis_Katharsis_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f9/Khronostasis_Katharsis_Phigros.png/300px-Khronostasis_Katharsis_Phigros.png",
+    "illustrator": "utosao",
+    "id": "KhronostasisKatharsis.Halv"
+  },
+  {
+    "name": "Snow Desert",
+    "artist": "WyvernP",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 364,
+        "charter": "VikingNexus"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.3,
+        "combo": 459,
+        "charter": "VikingNexus"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.3,
+        "combo": 655,
+        "charter": "VikingNexus"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d8/Snow_Desert_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d8/Snow_Desert_Phigros.png/300px-Snow_Desert_Phigros.png",
+    "illustrator": "knife美工刀",
+    "id": "SnowDesert.WyvernP"
+  },
+  {
+    "name": "Burn",
+    "artist": "NceS",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 278,
+        "charter": "Ctymatch Girl"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.6,
+        "combo": 497,
+        "charter": "Burn Full Catcats"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 707,
+        "charter": "Burn Full Catcats VS Ctymatch Girl"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c2/Burn_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c2/Burn_Phigros.png/300px-Burn_Phigros.png",
+    "illustrator": "knife美工刀",
+    "id": "Burn.NceS"
+  },
+  {
+    "name": "Aleph-0",
+    "artist": "LeaF",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 153,
+        "charter": "Clutter"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.1,
+        "combo": 531,
+        "charter": "Clutter"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 885,
+        "charter": "Clutter"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e0/Aleph-0_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e0/Aleph-0_Phigros.png/300px-Aleph-0_Phigros.png",
+    "illustrator": "Optie",
+    "id": "Aleph0.LeaF"
+  },
+  {
+    "name": "Next Time",
+    "artist": "SaMZing",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 240,
+        "charter": "Gausbon ~ See you next time ~"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 303,
+        "charter": "Gausbon ~ See you next time ~"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.6,
+        "combo": 387,
+        "charter": "Gausbon ~ See you next time ~"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/04/Next_Time_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/04/Next_Time_Phigros.png/300px-Next_Time_Phigros.png",
+    "illustrator": "叶藤",
+    "id": "NextTime.SaMZIng"
+  },
+  {
+    "name": "Rubbish Sorting",
+    "artist": "Ctymax vs. NceS",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 229,
+        "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.4,
+        "combo": 475,
+        "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.8,
+        "combo": 613,
+        "charter": "阿爽 vs. Ctymax -Haose 垃圾-"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f0/Rubbish_Sorting_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f0/Rubbish_Sorting_Phigros.png/300px-Rubbish_Sorting_Phigros.png",
+    "illustrator": "knife美工刀",
+    "id": "RubbishSorting.CtymaxvsNceS"
+  },
+  {
+    "name": "Dead Soul",
+    "artist": "Sound Souler",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 273,
+        "charter": "Phigros Charting Team"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.7,
+        "combo": 613,
+        "charter": "Phigros Charting Team"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 787,
+        "charter": "Phigros Charting Team"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5d/Dead_Soul_Phigros.jpg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5d/Dead_Soul_Phigros.jpg/300px-Dead_Soul_Phigros.jpg",
+    "illustrator": "Photonskyto",
+    "id": "DeadSoul.SoundSouler"
+  },
+  {
+    "name": "Speed Up!",
+    "artist": "DarTokki",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 262,
+        "charter": "Ctymax VS 百九十八"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.3,
+        "combo": 463,
+        "charter": "Ctymax VS 百九十八"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.3,
+        "combo": 711,
+        "charter": "Ctymax VS 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/05/Speed_Up_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/05/Speed_Up_Phigros.jpeg/300px-Speed_Up_Phigros.jpeg",
+    "illustrator": "TNiK",
+    "id": "SpeedUp.DarTokki"
+  },
+  {
+    "name": "Magenta Potion",
+    "artist": "EmoCo.",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 334,
+        "charter": "Ctymax VS 晨"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.3,
+        "combo": 631,
+        "charter": "Ctymax VS 晨"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 791,
+        "charter": "Ctymax VS 晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/3d/Magenta_Potion_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/3d/Magenta_Potion_Phigros.png/300px-Magenta_Potion_Phigros.png",
+    "illustrator": "NO|SER",
+    "id": "MagentaPotion.EmoCo"
+  },
+  {
+    "name": "Get Back",
+    "artist": "CAP3",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 321,
+        "charter": "JKy"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 550,
+        "charter": "JKy"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.8,
+        "combo": 708,
+        "charter": "JKy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f7/Get_Back_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f7/Get_Back_Phigros.png/300px-Get_Back_Phigros.png",
+    "illustrator": "TiNK",
+    "id": "GetBack.CAP3"
+  },
+  {
+    "name": "Palescreen",
+    "artist": "WyvernP feat. Madol",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 224,
+        "charter": "Jeitie"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 772,
+        "charter": "Jeitie"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 1059,
+        "charter": "Jeitie"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/da/Palescreen_Phigros_2048%2A1080.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/da/Palescreen_Phigros_2048%2A1080.png/300px-Palescreen_Phigros_2048%2A1080.png",
+    "illustrator": "GAMEBAKA",
+    "id": "Palescreen.WyvernPfeatMadol"
+  },
+  {
+    "name": "The Mountain Eater",
+    "artist": "Paul Bazooka",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 210,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.1,
+        "combo": 386,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 697,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/21/The_Mountain_Eater_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/21/The_Mountain_Eater_Phigros.png/300px-The_Mountain_Eater_Phigros.png",
+    "illustrator": "START SEED",
+    "id": "TheMountainEater.PaulBazooka"
+  },
+  {
+    "name": "Orthodox",
+    "artist": "tokiwa",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 304,
+        "charter": "Uvernight"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.6,
+        "combo": 627,
+        "charter": "Uvernight"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.3,
+        "combo": 962,
+        "charter": "Uvernight"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d5/Orthodox_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d5/Orthodox_Phigros.png/300px-Orthodox_Phigros.png",
+    "illustrator": "cycats",
+    "id": "Orthodox.tokiwa"
+  },
+  {
+    "name": "End Me",
+    "artist": "ZxNX as Delaina",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 217,
+        "charter": "鲲"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 320,
+        "charter": "鲲"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.1,
+        "combo": 724,
+        "charter": "鲲 fixed by 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/3d/End_Me_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/3d/End_Me_Phigros.png/300px-End_Me_Phigros.png",
+    "illustrator": "何呵",
+    "id": "EndMe.ZxNXasDelaina"
+  },
+  {
+    "name": "Parallel Retrogression(Game Ver.)",
+    "artist": "Tetrajectory",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 507,
+        "charter": "HaraKuma"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 697,
+        "charter": "HaraKuma"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 851,
+        "charter": "HaraKuma"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/27/Parallel_Retrogression_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/27/Parallel_Retrogression_Phigros.png/300px-Parallel_Retrogression_Phigros.png",
+    "illustrator": "青鸟",
+    "id": "ParallelRetrogressionGameVer.Tetrajectory"
+  },
+  {
+    "name": "Starduster",
+    "artist": "Quree",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 280,
+        "charter": "NerSAN"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 578,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.1,
+        "combo": 874,
+        "charter": "NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f4/Starduster_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f4/Starduster_Phigros.png/300px-Starduster_Phigros.png",
+    "illustrator": "IvyTowers",
+    "id": "Starduster.Quree"
+  },
+  {
+    "name": "Electron",
+    "artist": "ElousΛ.-FZ",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 219,
+        "charter": "百九十八"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.4,
+        "combo": 423,
+        "charter": "百九十八"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.2,
+        "combo": 576,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5d/Electron_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5d/Electron_Phigros.png/300px-Electron_Phigros.png",
+    "illustrator": "DoublePian",
+    "id": "Electron.ElousFZ"
+  },
+  {
+    "name": "SIGMA",
+    "artist": "Kry.exe",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 352,
+        "charter": "Barbarianerman.exe"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.5,
+        "combo": 516,
+        "charter": "Bσrbσriσnermσn.exe"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.6,
+        "combo": 785,
+        "charter": "Bσrbσriσn∑rmσn.∑x∑"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/ab/SIGMA_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/ab/SIGMA_Phigros.png/300px-SIGMA_Phigros.png",
+    "illustrator": "塔塔",
+    "id": "SIGMA.Kryexe"
+  },
+  {
+    "name": "Hardcore Kwaya",
+    "artist": "EnFr",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 340,
+        "charter": "One skunk (Ctymax) in Africa"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 611,
+        "charter": "Hardcore Barbaya"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 852,
+        "charter": "Two skunks (Ctymax and 晨)in Africa shouting WAHHHHHH!"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5f/Hardcore_Kwaya_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5f/Hardcore_Kwaya_Phigros.png/300px-Hardcore_Kwaya_Phigros.png",
+    "illustrator": "EnFr",
+    "id": "HardcoreKwaya.EnFr"
+  },
+  {
+    "name": "Äventyr",
+    "artist": "Grand Thaw / Rigël Theatre",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 345,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.4,
+        "combo": 626,
+        "charter": "Snorkel"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.7,
+        "combo": 954,
+        "charter": "Barbarianerman vs. Snorkel"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c8/Aventyr.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c8/Aventyr.png/300px-Aventyr.png",
+    "illustrator": "Grand Thaw / Rigël Theatre",
+    "id": "Aventyr.GrandThawRigelTheatre"
+  },
+  {
+    "name": "Träne",
+    "artist": "MALVA.",
+    "chart": {
+      "EZ": {
+        "level": 1,
+        "difficulty": 1.5,
+        "combo": 148,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 420,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 661,
+        "charter": "Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/61/Trane_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/61/Trane_Phigros.png/300px-Trane_Phigros.png",
+    "illustrator": "しえろ",
+    "id": "Trane.MALVA"
+  },
+  {
+    "name": "雪降り、メリクリ",
+    "artist": "A-39",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 316,
+        "charter": "Merry xmAS"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.3,
+        "combo": 559,
+        "charter": "Merry ChristymAxS"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 939,
+        "charter": "N\\erry Xmas"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/06/Yuki_Ori_Meri_Kuri_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/06/Yuki_Ori_Meri_Kuri_Phigros.png/300px-Yuki_Ori_Meri_Kuri_Phigros.png",
+    "illustrator": "犀牛坨动画工坊",
+    "id": "雪降りメリクリ.A39"
+  },
+  {
+    "name": "Cervelle Connexion",
+    "artist": "SCTL",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 301,
+        "charter": "Eastern Ailuropoda Gang"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.3,
+        "combo": 569,
+        "charter": "Eastern Ailuropoda Gang"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 563,
+        "charter": "Eastern Ailuropoda Gang"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/43/Cervelle_Connexion_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/43/Cervelle_Connexion_Phigros.png/300px-Cervelle_Connexion_Phigros.png",
+    "illustrator": "SCTL",
+    "id": "CervelleConnexion.SCTL"
+  },
+  {
+    "name": "modulus",
+    "artist": "PTB10",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 258,
+        "charter": "Cty moyules"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.1,
+        "combo": 482,
+        "charter": "Cty moyules"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 774,
+        "charter": "Pat Brick Man Mr.C"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/67/Modulus_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/67/Modulus_Phigros.png/300px-Modulus_Phigros.png",
+    "illustrator": "geralt",
+    "id": "modulus.PTB10"
+  },
+  {
+    "name": "Wavetapper",
+    "artist": "Frums",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 470,
+        "charter": "Sillyp"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 507,
+        "charter": "Sillyp"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.8,
+        "combo": 866,
+        "charter": "百九十八 vs. Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/1e/Wavetapper_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/1e/Wavetapper_Phigros.png/300px-Wavetapper_Phigros.png",
+    "illustrator": "百九十八",
+    "id": "Wavetapper.Frums"
+  },
+  {
+    "name": "大和撫子 -Wild Dances-",
+    "artist": "adaptor vs DRIVE.",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 274,
+        "charter": "Eaimo fixed by NerSAN"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 549,
+        "charter": "Eaimo fixed by NerSAN"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 1002,
+        "charter": "Eaimo vs. CtyNer dancing wildly"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/13/%E5%A4%A7%E5%92%8C%E6%92%AB%E5%AD%90_Wild_Dances_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/13/%E5%A4%A7%E5%92%8C%E6%92%AB%E5%AD%90_Wild_Dances_Phigros.png/300px-%E5%A4%A7%E5%92%8C%E6%92%AB%E5%AD%90_Wild_Dances_Phigros.png",
+    "illustrator": "りゆうら",
+    "id": "大和撫子WildDances.adapatorvsDRIVE"
+  },
+  {
+    "name": "Eltaw",
+    "artist": "Fl00t",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 391,
+        "charter": "JKy"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.5,
+        "combo": 608,
+        "charter": "JKy"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 855,
+        "charter": "BarbariaNERman vs. JKy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/04/Eltaw_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/04/Eltaw_Phigros.png/300px-Eltaw_Phigros.png",
+    "illustrator": "xperz",
+    "id": "Eltaw.Fl00t"
+  },
+  {
+    "name": "Better Graphic Animation",
+    "artist": "ルゼ",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.5,
+        "combo": 178,
+        "charter": "NerSAN"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.7,
+        "combo": 469,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 616,
+        "charter": "縱連打の信者☆無極"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/da/Better_Graphic_Animation_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/da/Better_Graphic_Animation_Phigros.png/300px-Better_Graphic_Animation_Phigros.png",
+    "illustrator": "A-Zero Project",
+    "id": "BetterGraphicAnimation.ルゼ"
+  },
+  {
+    "name": "With You",
+    "artist": "Cashew",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 226,
+        "charter": "with U"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.3,
+        "combo": 654,
+        "charter": "with U"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.4,
+        "combo": 774,
+        "charter": "with U"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/86/With_You_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/86/With_You_Phigros.png/300px-With_You_Phigros.png",
+    "illustrator": "ADZUKI",
+    "id": "WithYou.Cashew"
+  },
+  {
+    "name": "Unorthodox Thoughts",
+    "artist": "Joulez",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 512,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.3,
+        "combo": 644,
+        "charter": "HaraKuma"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.9,
+        "combo": 729,
+        "charter": "Barbarianerman vs. HaraKuma"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/b/b5/Unorthodox_Thoughts_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/b/b5/Unorthodox_Thoughts_Phigros.png/300px-Unorthodox_Thoughts_Phigros.png",
+    "illustrator": "ASXX",
+    "id": "UnorthodoxThoughts.Joulez"
+  },
+  {
+    "name": "Apocalyptic",
+    "artist": "Z ClaxX & SumaiLight",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 282,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.6,
+        "combo": 329,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 676,
+        "charter": "NerSAN vs. 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f7/Apocalyptic_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f7/Apocalyptic_Phigros.png/300px-Apocalyptic_Phigros.png",
+    "illustrator": "佑木いずみ& Ctymax",
+    "id": "Apocalyptic.ZClaxXSumaiLight"
+  },
+  {
+    "name": "游园地",
+    "artist": "椒盐菠萝",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 220,
+        "charter": "野从菠萝"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 444,
+        "charter": "野从菠萝"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.2,
+        "combo": 481,
+        "charter": "椒盐倪尔"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/8f/%E6%B8%B8%E5%9B%AD%E5%9C%B0_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/8f/%E6%B8%B8%E5%9B%AD%E5%9C%B0_Phigros.png/300px-%E6%B8%B8%E5%9B%AD%E5%9C%B0_Phigros.png",
+    "illustrator": "CEM",
+    "id": "游园地.椒盐菠萝"
+  },
+  {
+    "name": "energy trixxx",
+    "artist": "KAH",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 252,
+        "charter": "NerSAN"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 477,
+        "charter": "NerSANN"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 930,
+        "charter": "NerSANNN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e9/Energy_trixxx_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e9/Energy_trixxx_Phigros.png/300px-Energy_trixxx_Phigros.png",
+    "illustrator": "手鞠鈴&自動車 原付",
+    "id": "energytrixxx.KAH"
+  },
+  {
+    "name": "Nhelv",
+    "artist": "Silentroom",
+    "chart": {
+      "EZ": {
+        "level": 1,
+        "difficulty": 1.5,
+        "combo": 196,
+        "charter": "野从"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.9,
+        "combo": 571,
+        "charter": "StupiGGy"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.4,
+        "combo": 833,
+        "charter": "森德雷斯 vs. 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/ea/Nhelv_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/ea/Nhelv_Phigros.jpeg/300px-Nhelv_Phigros.jpeg",
+    "illustrator": "駿",
+    "id": "Nhelv.Silentroom"
+  },
+  {
+    "name": "-Arkhei-",
+    "artist": "Sera Amagi",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 462,
+        "charter": "-JKy-"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.7,
+        "combo": 454,
+        "charter": "-JKy-"
+      },
+      "IN": {
+        "level": 12,
+        "difficulty": 12.1,
+        "combo": 644,
+        "charter": "-JKy-"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/9a/-Arkhei-_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/9a/-Arkhei-_Phigros.jpeg/300px--Arkhei-_Phigros.jpeg",
+    "illustrator": "Hachimitsu☆Boy",
+    "id": "Arkhei.SeraAmagi"
+  },
+  {
+    "name": "Kerberos",
+    "artist": "Zris",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 262,
+        "charter": "Alloces"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.4,
+        "combo": 683,
+        "charter": "NerSAN"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 978,
+        "charter": "Snorkel vs. NerSAN"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/e/e6/Kerberos_Phigros.jpeg",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/e/e6/Kerberos_Phigros.jpeg/300px-Kerberos_Phigros.jpeg",
+    "illustrator": "Eridani",
+    "id": "Kerberos.Zris"
+  },
+  {
+    "name": "ρars/ey",
+    "artist": "siqlo",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 181,
+        "charter": "Rikko"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.3,
+        "combo": 449,
+        "charter": "Rikko & TangScend"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 777,
+        "charter": "TangScend"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5c/Parsley_jacket.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5c/Parsley_jacket.png/300px-Parsley_jacket.png",
+    "illustrator": "出前 x nekomiya",
+    "id": "parsey.siqlo"
+  },
+  {
+    "name": "Concvssion",
+    "artist": "Halv",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 450,
+        "charter": "J.R"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.2,
+        "combo": 700,
+        "charter": "晨"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 1000,
+        "charter": "Phigros Charting Team"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/22/Concvssion%28Phigros%29.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/22/Concvssion%28Phigros%29.png/300px-Concvssion%28Phigros%29.png",
+    "illustrator": "汉堡",
+    "id": "Concvssion.Halv"
+  },
+  {
+    "name": "ジングルベル(Jingle Bell)",
+    "artist": "A-39/沙包P",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 639,
+        "charter": "merry CNrisTimas"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 492,
+        "charter": "merry XM AS"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 1239,
+        "charter": "NerSANTA vs. BarbarianerSLEDGE"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/33/%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%99%E3%83%AB%28Jingle_Bell%29_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/33/%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%99%E3%83%AB%28Jingle_Bell%29_Phigros.png/300px-%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%99%E3%83%AB%28Jingle_Bell%29_Phigros.png",
+    "illustrator": "爱39的Konya",
+    "id": "ジングルベルJingleBell.A39沙包P"
+  },
+  {
+    "name": "Dreamland",
+    "artist": "z1on & kyrrin",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 338,
+        "charter": "Bea"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.8,
+        "combo": 476,
+        "charter": "Bea"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.2,
+        "combo": 627,
+        "charter": "XMT & 198"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/10/Dreamland_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/10/Dreamland_Phigros.png/300px-Dreamland_Phigros.png",
+    "illustrator": "海产",
+    "id": "Dreamland.z1onkyrrin"
+  },
+  {
+    "name": "Another Round",
+    "artist": "Justin Dai",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3,
+        "combo": 136,
+        "charter": "阿爽"
+      },
+      "HD": {
+        "level": 7,
+        "difficulty": 7.5,
+        "combo": 353,
+        "charter": "Another Stage"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.3,
+        "combo": 505,
+        "charter": "TimiTini →\"X\"← 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/74/Another_Round_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/74/Another_Round_Phigros.png/300px-Another_Round_Phigros.png",
+    "illustrator": "艾是Abby",
+    "id": "AnotherRound.JustinDai"
+  },
+  {
+    "name": "Future Mind",
+    "artist": "Ray Nautica & Reku Mochizuki",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 365,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.7,
+        "combo": 570,
+        "charter": "XMT小咩兔"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 866,
+        "charter": "Future BarbarXMT"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/37/Future_Mind_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/37/Future_Mind_Phigros.png/300px-Future_Mind_Phigros.png",
+    "illustrator": "Keiby.comics",
+    "id": "FutureMind.RayNauticaRekuMochizuki"
+  },
+  {
+    "name": "Luminescent",
+    "artist": "Daison",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 330,
+        "charter": "Uvernight"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.3,
+        "combo": 608,
+        "charter": "Uvernight"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 650,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/ce/Luminescent_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/ce/Luminescent_Phigros.png/300px-Luminescent_Phigros.png",
+    "illustrator": "鲸弑",
+    "id": "Luminescent.Daison"
+  },
+  {
+    "name": "FULi AUTO BUSTER",
+    "artist": "MYUKKE.",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 285,
+        "charter": "M3d1uM & 百九十八"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.6,
+        "combo": 596,
+        "charter": "M3d1uM & 百九十八"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 755,
+        "charter": "百九十八 busting 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/99/Phigros_FULi_AUTO_BUSTER.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/99/Phigros_FULi_AUTO_BUSTER.png/300px-Phigros_FULi_AUTO_BUSTER.png",
+    "illustrator": "cycats",
+    "id": "FULiAUTOBUSTER.MYUKKE"
+  },
+  {
+    "name": "I Must Say No",
+    "artist": "TangJuan",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 76,
+        "charter": "Likey"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.5,
+        "combo": 364,
+        "charter": "JKy"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.5,
+        "combo": 470,
+        "charter": "Likey & 百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/37/I_Must_Say_No_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/37/I_Must_Say_No_Phigros.png/300px-I_Must_Say_No_Phigros.png",
+    "illustrator": "cycats",
+    "id": "IMustSayNo.TangJuan"
+  },
+  {
+    "name": "opia",
+    "artist": "rN",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 233,
+        "charter": "BlindForest"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 548,
+        "charter": "BlindForest『Observing』"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 793,
+        "charter": "Jeitie & CorruptedEntity 『Hollow』"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/40/Opia_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/40/Opia_Phigros.png/300px-Opia_Phigros.png",
+    "illustrator": "rN @ 湯元画伯",
+    "id": "opia.rN"
+  },
+  {
+    "name": "いざ、参ります",
+    "artist": "U-ske feat. 棗いつき",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 188,
+        "charter": "Clutter & Barbarianerman"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.6,
+        "combo": 441,
+        "charter": "Clutter & Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 865,
+        "charter": "小咩兔、参上"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/4e/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/4e/%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99_Phigros.png/300px-%E3%81%84%E3%81%96%E3%80%81%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%99_Phigros.png",
+    "illustrator": "绿风マルト",
+    "id": "いざ参ります.Uskefeat棗いつき"
+  },
+  {
+    "name": "月下缭乱",
+    "artist": "月见静华 vs. LUNARiUM",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 419,
+        "charter": "XMT小咩兔"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.4,
+        "combo": 533,
+        "charter": "XMT小咩兔"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 969,
+        "charter": "iv"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2c/%E6%9C%88%E4%B8%8B%E7%BC%AD%E4%B9%B1_Phigros_2.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2c/%E6%9C%88%E4%B8%8B%E7%BC%AD%E4%B9%B1_Phigros_2.png/300px-%E6%9C%88%E4%B8%8B%E7%BC%AD%E4%B9%B1_Phigros_2.png",
+    "illustrator": "TNiK",
+    "id": "月下缭乱.月見静華vsLUNARiUM"
+  },
+  {
+    "name": "On And On!!",
+    "artist": "ETIA. feat. Jenga",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 195,
+        "charter": "Rikko"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.3,
+        "combo": 323,
+        "charter": "Rikko"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.9,
+        "combo": 830,
+        "charter": "NerSAN feat. Takanashi Rikko"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/03/On_And_On%21%21_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/03/On_And_On%21%21_Phigros.png/300px-On_And_On%21%21_Phigros.png",
+    "illustrator": "わっふゑ",
+    "id": "OnAndOn.ETIAfeatJenga"
+  },
+  {
+    "name": "DataErr0r",
+    "artist": "Cosmograph",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 50,
+        "charter": "[!!12:|<|<ο!!]"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.6,
+        "combo": 400,
+        "charter": "Rikko"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 613,
+        "charter": "TangScend -Err0rederci-"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/c/c1/DataErr0r_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/c/c1/DataErr0r_Phigros.png/300px-DataErr0r_Phigros.png",
+    "illustrator": "Photonskyto",
+    "id": "DataErr0r.Cosmograph"
+  },
+  {
+    "name": "c.s.q.n.",
+    "artist": "Aoi",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 330,
+        "charter": "b.b.n.m."
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.5,
+        "combo": 755,
+        "charter": "h.o.m.e.e.e."
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 1066,
+        "charter": "s.t.p.g."
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/64/Csqn_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/64/Csqn_Phigros.png/300px-Csqn_Phigros.png",
+    "illustrator": "Ctymax vs. TNiK feat. 出前",
+    "id": "csqn.Aoi"
+  },
+  {
+    "name": "Brave Notes",
+    "artist": "Turquoise(DRIVE.+Nota)",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 299,
+        "charter": "Brave Eaimo"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.4,
+        "combo": 442,
+        "charter": "Brave Eaimo"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 768,
+        "charter": "Brave Eaimo"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/6c/Brave_Notes_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/6c/Brave_Notes_Phigros.png/300px-Brave_Notes_Phigros.png",
+    "illustrator": "林语",
+    "id": "BraveNotes.TurquoiseDRIVENota"
+  },
+  {
+    "name": "Eternal Snow",
+    "artist": "Abyss Idols",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 288,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.8,
+        "combo": 533,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.5,
+        "combo": 700,
+        "charter": "JKy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/f/f3/Eternal_Snow_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/f/f3/Eternal_Snow_Phigros.png/300px-Eternal_Snow_Phigros.png",
+    "illustrator": "Sak",
+    "id": "EternalSnow.AbyssIdols"
+  },
+  {
+    "name": "Rainy Season",
+    "artist": "Abyss Idols",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 304,
+        "charter": "StupiGGy"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 594,
+        "charter": "StupiGGy"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.4,
+        "combo": 660,
+        "charter": "Raiky Season"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/4/43/Rainy_Season_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/4/43/Rainy_Season_Phigros.png/300px-Rainy_Season_Phigros.png",
+    "illustrator": "Robins",
+    "id": "RainySeason.AbyssIdols"
+  },
+  {
+    "name": "El Condor Pasa (Phigros Edit)",
+    "artist": "Plastic Fruits",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 259,
+        "charter": "TimiTini"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.5,
+        "combo": 585,
+        "charter": "TimiTini"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 1140,
+        "charter": "XMT小咩兔"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d7/El_Condor_Pasa_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d7/El_Condor_Pasa_Phigros.png/300px-El_Condor_Pasa_Phigros.png",
+    "illustrator": "青鸟",
+    "id": "ElCondorPasaPhigrosEdit.PlasticFruits"
+  },
+  {
+    "name": "Break Over",
+    "artist": "K-forest",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 300,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.8,
+        "combo": 919,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.6,
+        "combo": 910,
+        "charter": "百九十八 vs. Barbarianerman"
+      },
+      "AT": {
+        "level": 14,
+        "difficulty": 14.9,
+        "combo": 570,
+        "charter": "百九十八"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/d/d3/Break_Over_Phigros_%E6%96%B0.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/d/d3/Break_Over_Phigros_%E6%96%B0.png/300px-Break_Over_Phigros_%E6%96%B0.png",
+    "illustrator": "圆规Compasses",
+    "id": "BreakOver.Kforest"
+  },
+  {
+    "name": "Believe Light (feat. 果丸哒呦)",
+    "artist": "Scaler & Mestie & 果丸哒呦",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": 2.5,
+        "combo": 264,
+        "charter": "Believe Ctymax"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.5,
+        "combo": 580,
+        "charter": "Believe TimiTini"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 972,
+        "charter": "Believe Ctymax & TimiTini"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/7/74/Believe_Light_%28feat.%E6%9E%9C%E4%B8%B8%E5%93%92%E5%91%A6%29_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/7/74/Believe_Light_%28feat.%E6%9E%9C%E4%B8%B8%E5%93%92%E5%91%A6%29_Phigros.png/300px-Believe_Light_%28feat.%E6%9E%9C%E4%B8%B8%E5%93%92%E5%91%A6%29_Phigros.png",
+    "illustrator": "圆规compasses",
+    "id": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦"
+  },
+  {
+    "name": "Pont des souvenirs",
+    "artist": "VeetaCrush vs. [itsu(feat.itsu)]",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 461,
+        "charter": "JKy"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 567,
+        "charter": "JKy"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 899,
+        "charter": "晨"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/05/Pont_des_souvenirs_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/05/Pont_des_souvenirs_Phigros.png/300px-Pont_des_souvenirs_Phigros.png",
+    "illustrator": "林语",
+    "id": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu"
+  },
+  {
+    "name": "青丘",
+    "artist": "BLACK 0",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 284,
+        "charter": "Ctymax"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.5,
+        "combo": 534,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 1304,
+        "charter": "KillJoy"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/9/94/%E9%9D%92%E4%B8%98_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/9/94/%E9%9D%92%E4%B8%98_Phigros.png/300px-%E9%9D%92%E4%B8%98_Phigros.png",
+    "illustrator": "BLACK 0",
+    "id": "青丘.BLACK0"
+  },
+  {
+    "name": "インフェルノシティ",
+    "artist": "Ponchi♪ feat. はぁち",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5,
+        "combo": 352,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.2,
+        "combo": 578,
+        "charter": "Alloces feat. Uvernight"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.7,
+        "combo": 1275,
+        "charter": "Alloces"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/3/33/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E%E3%82%B7%E3%83%86%E3%82%A3_Phigros_Illust.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/3/33/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E%E3%82%B7%E3%83%86%E3%82%A3_Phigros_Illust.png/300px-%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8E%E3%82%B7%E3%83%86%E3%82%A3_Phigros_Illust.png",
+    "illustrator": "LESYEF & 藍瀬 まなみ",
+    "id": "インフェルノシティ.Ponchifeatはぁち"
+  },
+  {
+    "name": "Upshift",
+    "artist": "Iriss-Frantzz",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.5,
+        "combo": 630,
+        "charter": "Lumiere"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.8,
+        "combo": 545,
+        "charter": "CorruptedEntity &野从"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.3,
+        "combo": 946,
+        "charter": "_鉄"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/1a/Upshift_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/1a/Upshift_Phigros.png/300px-Upshift_Phigros.png",
+    "illustrator": "Iriss=Frantzz=s-don",
+    "id": "Upshift.Iriss-Frantzz"
+  },
+  {
+    "name": "Poison AND÷OR Affection",
+    "artist": "LeaF",
+    "chart": {
+      "EZ": {
+        "level": 3,
+        "difficulty": 3.5,
+        "combo": 140,
+        "charter": "R/kko"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.6,
+        "combo": 278,
+        "charter": "&ikko"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.5,
+        "combo": 888,
+        "charter": "1÷98"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/80/Poison_AND%C3%B7OR_Affection_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/80/Poison_AND%C3%B7OR_Affection_Phigros.png/300px-Poison_AND%C3%B7OR_Affection_Phigros.png",
+    "illustrator": "笔记RE/海产",
+    "id": "PoisonANDORAffection.LeaF"
+  },
+  {
+    "name": "Random",
+    "artist": "Sobrem × Silentroom",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6,
+        "combo": 275,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.1,
+        "combo": 568,
+        "charter": "IMD_6"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.7,
+        "combo": 732,
+        "charter": "_鉄"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/21/Random_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/21/Random_Phigros.png/300px-Random_Phigros.png",
+    "illustrator": "Harkiadel",
+    "id": "Random.SobremSilentroom"
+  },
+  {
+    "name": "零號車輛",
+    "artist": "seatrus",
+    "chart": {
+      "EZ": {
+        "level": 7,
+        "difficulty": 7,
+        "combo": 594,
+        "charter": "零號宇夜"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.8,
+        "combo": 1058,
+        "charter": "壹號阿爽"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1240,
+        "charter": "Pcat【零】198"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/8/8b/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/8/8b/%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png/300px-%E9%9B%B6%E8%99%9F%E8%BB%8A%E8%BC%9B_Phigros.png",
+    "illustrator": "2Al4wU4",
+    "id": "零號車輛.seatrus"
+  },
+  {
+    "name": "Bougainvillea",
+    "artist": "Jade",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4,
+        "combo": 300,
+        "charter": "Barbarvillea"
+      },
+      "HD": {
+        "level": 8,
+        "difficulty": 8.3,
+        "combo": 347,
+        "charter": "Barbarvillea"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.4,
+        "combo": 662,
+        "charter": "Barbarvillea"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/5d/Bougainvillea_Phi.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/5d/Bougainvillea_Phi.png/285px-Bougainvillea_Phi.png",
+    "illustrator": "TNiK",
+    "id": "Bougainvillea.Jade"
+  },
+  {
+    "name": "Now Is The Time, Do It",
+    "artist": "Roy Mikelate",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 246,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 777,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.3,
+        "combo": 795,
+        "charter": "Pat Brick Man Mr.N feat. Ner of Time"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/61/Now_Is_The_Time%2C_Do_It_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/61/Now_Is_The_Time%2C_Do_It_Phigros.png/285px-Now_Is_The_Time%2C_Do_It_Phigros.png",
+    "illustrator": "青鸟",
+    "id": "NowIsTheTimeDoIt.RoyMikelate"
+  },
+  {
+    "name": "Introduction",
+    "artist": "姜米條&ElousΛ.-FZ",
+    "chart": {
+      "EZ": {
+        "level": 2,
+        "difficulty": null,
+        "combo": 42,
+        "charter": "Barbarianerman"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/1/13/Introduction.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",
+    "illustrator": "L-sp4",
+    "id": "Introduction.姜米條ElousFZ"
+  }
+]
