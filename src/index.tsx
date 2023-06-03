@@ -1,7 +1,7 @@
-import { Context, Schema, h } from 'koishi'
-import { API, renderScore, tokenPattern, getSongInternalName as getIName } from './api'
+import { Context, Schema, deduplicate } from 'koishi'
+import { API, tokenPattern, getSongInternalName as getIName, rks } from './api'
 import { SongInfo } from './types'
-import { dedupe } from './utils'
+import { renderB19, renderScore } from './renderer'
 
 declare module 'koishi' {
   interface User {
@@ -9,35 +9,37 @@ declare module 'koishi' {
   }
 
   interface Tables {
-    phigros_songs: SongInfo
-    phigros_alias: {
+    phigros_alias_v2: {
       id: number
       alias: string
-      songId: number
+      songId: string
     }
   }
 }
 
-export interface Config { }
+export interface Config {
+  shortcut: boolean
+}
 
 export const name = 'phigros'
 export const using = ['database', 'puppeteer']
-export const Config: Schema<Config> = Schema.object({})
+export const Config: Schema<Config> = Schema.object({
+  shortcut: Schema.boolean().default(true).description('是否允许通过 shortcut 触发指令')
+})
 
-export function apply(ctx: Context) {
+export function apply(ctx: Context, config: Config) {
   const api = new API(ctx)
   const querySong = async (alias: string): Promise<SongInfo[]> => {
-    const matchs = await ctx.database.get('phigros_alias', { alias: { $regex: alias.toLowerCase() } })
-    const songs = dedupe(matchs, s => s.songId)
-    return Promise.all(songs.map(async m => {
-      const [song] = await ctx.database.get('phigros_songs', { id: m.songId })
-      return song
-    }))
+    const matchs = await ctx.database.get('phigros_alias_v2', { alias: { $regex: alias.toLowerCase() } })
+      .then(a => deduplicate(a.map(a => a.songId)))
+    return api.songsInfo()
+      .then(i => i.filter(s => matchs.includes(s.id)))
   }
 
-  const setAilas = async (alias: string, songId: number) => {
-    if (ctx.database.get('phigros_alias', { alias: alias.toLowerCase(), songId }))
-      return ctx.database.create('phigros_alias', { alias: alias.toLowerCase(), songId })
+  const setAilas = async (alias: string, songId: string) => {
+    const query = { alias: alias.toLowerCase(), songId }
+    if (ctx.database.get('phigros_alias_v2', query)[0]) throw new Error('alias exist.')
+    return ctx.database.create('phigros_alias_v2', query)
   }
 
   ctx.i18n.define('zh', require('./locales/zh-CN'))
@@ -49,22 +51,12 @@ export function apply(ctx: Context) {
     }
   })
 
-  ctx.database.extend('phigros_songs', {
-    id: 'unsigned',
-    chart: 'json',
-    artist: 'string',
-    illustration: 'string',
-    illustrator: 'string',
-    name: 'string',
-    thumbnail: 'string',
-  })
-
-  ctx.database.extend('phigros_alias', {
+  ctx.database.extend('phigros_alias_v2', {
     id: 'unsigned',
     alias: 'string',
     songId: {
       nullable: false,
-      type: 'unsigned',
+      type: 'string',
     },
   }, {
     foreign: {
@@ -74,21 +66,15 @@ export function apply(ctx: Context) {
 
   ctx.on('ready', async () => {
     const songsInfo = await api.songsInfo()
-    await Promise.all(songsInfo.map(async i => {
-      const [song] = await ctx.database.get('phigros_songs', { name: i.name, artist: i.artist })
-      if (song) return await ctx.database.set('phigros_songs', { id: song.id }, i)
-      await ctx.database.create('phigros_songs', i)
-      const [{ id }] = await ctx.database.get('phigros_songs', { name: i.name, artist: i.artist })
-      await Promise.all([
-        setAilas(i.name.toLowerCase(), id),
-        setAilas(getIName(i.name, i.artist), id),
-        setAilas(i.artist.toLowerCase(), id),
+    await Promise.all(songsInfo.map(i =>
+      Promise.all([
+        setAilas(i.name.toLowerCase(), i.id),
+        setAilas(i.artist.toLowerCase(), i.id),
       ])
-    }))
+    ))
   })
 
-  ctx.command('phigros.unbind')
-    .shortcut('unbind', { i18n: true })
+  const unbind = ctx.command('phigros.unbind')
     .userFields(['phiToken'])
     .action(({ session }) => {
       if (!session.user.phiToken) return session.text('.no-token')
@@ -96,8 +82,7 @@ export function apply(ctx: Context) {
       return session.text('.success')
     })
 
-  ctx.command('phigros.bind <token:string>', { checkArgCount: true })
-    .shortcut('bind', { i18n: true, fuzzy: true })
+  const bind = ctx.command('phigros.bind <token:string>', { checkArgCount: true })
     .userFields(['phiToken'])
     .action(({ session }, token) => {
       if (!tokenPattern.exec(token)) return session.text('.invalid')
@@ -105,8 +90,7 @@ export function apply(ctx: Context) {
       return session.text('.success')
     })
 
-  ctx.command('phigros.alias <name:text>', { checkArgCount: true })
-    .shortcut('alias', { i18n: true, fuzzy: true })
+  const alias = ctx.command('phigros.alias <name:text>', { checkArgCount: true })
     .action(async ({ session }, name) => {
       const songs = await querySong(name)
       let song: SongInfo
@@ -135,8 +119,7 @@ export function apply(ctx: Context) {
       return session.text('.success', [song.name, alias])
     })
 
-  ctx.command('phigros.score <name:text>', { checkArgCount: true })
-    .shortcut('score', { i18n: true, fuzzy: true })
+  const score = ctx.command('phigros.score <name:text>', { checkArgCount: true })
     .userFields(['phiToken'])
     .action(async ({ session }, name) => {
       if (!session.user.phiToken) return session.text('.no-token')
@@ -159,12 +142,46 @@ export function apply(ctx: Context) {
 
       const save = await api.record(session.user.phiToken)
       const iName = getIName(song.name, song.artist).toLocaleLowerCase()
-      const record = save.find(([k]) => k.toLocaleLowerCase() === iName) ??
-        save.find(([k]) => k.toLocaleLowerCase().includes(iName))
+      const record = save.find(([k]) => k.toLocaleLowerCase() === iName)
 
       if (!record) return session.text('.no-record')
 
       await session.send(session.text('.rendering'))
       return renderScore(record[1], song)
     })
+
+  const b19 = ctx.command('phigros.b19')
+    .userFields(['phiToken'])
+    .action(async ({ session }) => {
+      if (!session.user.phiToken) return session.text('.no-token')
+
+      const save = await api.record(session.user.phiToken)
+      const { challengeMode } = await api.summary(session.user.phiToken)
+
+      const songs = await api.songsInfo()
+
+      const rksInfo = rks(save.map(r => {
+        const a = songs.find(s => s.id === r[0])
+        return [r[1], a]
+      }))
+
+      const playerName = await api.nickname(session.user.phiToken)
+
+      await session.send(session.text('.rendering'))
+      return renderB19(
+        playerName,
+        rksInfo.rks,
+        rksInfo.bestPhi,
+        rksInfo.b19,
+        challengeMode.rank, challengeMode.level
+      )
+    })
+
+  if (config.shortcut) {
+    unbind.shortcut('unbind', { i18n: true })
+    bind.shortcut('bind', { i18n: true, fuzzy: true })
+    alias.shortcut('alias', { i18n: true, fuzzy: true })
+    score.shortcut('score', { i18n: true, fuzzy: true })
+    b19.shortcut('b19', { i18n: true })
+  }
 }

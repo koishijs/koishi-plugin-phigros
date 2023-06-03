@@ -50,3 +50,15 @@ commands:
         level-score: '{0} 等级 {1}, 分数 {2}, acc {3}%'
       shortcuts:
         score: 查分
+
+    b19:
+      description: 查询 B19 成绩图
+      usage: 直接使用本指令即可查询 B19 成绩图
+      examples: 使用举例：“b19”
+      messages:
+        rendering: 正在渲染成绩图中
+        no-token: 尚未记录 SessionToken，请先使用 bind 指令
+      shortcuts:
+        b19: b19
+
+
