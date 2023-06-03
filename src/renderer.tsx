@@ -170,7 +170,7 @@ body {
 }
 
 .level {
-  font-size: 2px;
+  font-size: 12px;
 }
 
 .song {
@@ -275,9 +275,7 @@ body {
   width: 200px;
   height: 105px;
   background-blend-mode: color;
-  background-size: cover;
   transform: scale(1.19) skew(20deg) !important;
-  background-size: cover;
 }
 
 #header-title {
@@ -401,7 +399,7 @@ function renderSong(order: string | number, rks: RKSInfo) {
     </div>
 
     <div class="illustration no-unskew">
-      <div class="illus" style={`background: url('${rks.song.thumbnail}'), linear-gradient(transparent 60%, #000a 90%);`}>&nbsp;</div>
+      <div class="illus" style={`background: url('${rks.song.thumbnail}'), linear-gradient(transparent 60%, #000a 90%); background-size: cover;`}>&nbsp;</div>
       <div class="name">{rks.song.name}</div>
     </div>
 
@@ -499,17 +497,16 @@ export function renderScore(record: SongRecord, info: SongInfo) {
     }
 
     .difficulty {
-      margin-left: 5px;
       height: 30px;
       width: 35px;
       background-color: #FFF;
       display: flex;
       align-items: center;
+      justify-content: center;
     }
 
     .difficulty>* {
       box-shadow: var(--shadow);
-      margin-left: 2.5px;
       height: 28px;
       width: 30px;
       display: flex;
@@ -524,8 +521,13 @@ export function renderScore(record: SongRecord, info: SongInfo) {
       font-size: 15px;
     }
 
+    .level-name {
+      font-size: 12px;
+      line-height: 14px;
+      transform: skew(20deg) scale(0.75) !important;
+    }
+
     .score {
-      margin: 0 5px 0 10px;
       font-size: 15px;
       color: #FFF;
     }
@@ -533,7 +535,9 @@ export function renderScore(record: SongRecord, info: SongInfo) {
     .acc {
       position: relative;
       top: 5px;
-      font-size: 5px;
+      font-size: 12px;
+      max-width: 30px;
+      transform: skew(20deg) scale(0.75) !important;
       color: #FFF;
     }
 
@@ -616,7 +620,7 @@ export function renderScore(record: SongRecord, info: SongInfo) {
             return <div class="level no-unskew">
               <div class="difficulty no-unskew">
                 <div class={level + ' no-unskew'}>
-                  <div>{level}</div>
+                  <div class="level-name">{level}</div>
                   <div class="diff">{info.chart[level].level}</div>
                 </div>
               </div>
