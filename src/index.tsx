@@ -58,10 +58,6 @@ export function apply(ctx: Context, config: Config) {
       nullable: false,
       type: 'string',
     },
-  }, {
-    foreign: {
-      songId: ['phigros_songs', 'id']
-    },
   })
 
   ctx.on('ready', async () => {
