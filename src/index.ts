@@ -1,4 +1,4 @@
-import { Context, Schema, deduplicate, h } from 'koishi'
+import { Context, Schema, Session, SessionError, deduplicate, h } from 'koishi'
 import { API, tokenPattern, rks } from './api'
 import { SongInfo } from './types'
 import { renderB19, renderScore } from './renderer'
@@ -29,11 +29,25 @@ export const Config: Schema<Config> = Schema.object({
 
 export function apply(ctx: Context, config: Config) {
   const api = new API(ctx)
-  const querySong = async (alias: string): Promise<SongInfo[]> => {
+  const querySong = async (alias: string, session: Session): Promise<SongInfo> => {
     const matchs = await ctx.database.get('phigros_alias_v2', { alias: { $regex: alias.toLowerCase() } })
       .then(a => deduplicate(a.map(a => a.songId)))
-    return api.songsInfo()
+    const songs = await api.songsInfo()
       .then(i => i.filter(s => matchs.includes(s.id)))
+
+    if (!songs?.length) throw new SessionError('.no-song')
+    if (songs.length === 1) return songs[0]
+    else {
+      await session.send(
+        h('message', { forward: true }, [
+          h('message', [h.i18n('.select-song-prompt')]),
+          ...songs.map((s, i) => h('message', [`${i + 1}. ${s.name} 「${s.artist}」`])),
+        ]))
+      const index = +await session.prompt()
+      if (!index) throw new SessionError('.cancel')
+      return songs[index - 1]
+    }
+
   }
 
   const setAilas = async (alias: string, songId: string) => {
@@ -88,53 +102,32 @@ export function apply(ctx: Context, config: Config) {
 
   const alias = ctx.command('phigros.alias <name:text>', { checkArgCount: true })
     .action(async ({ session }, name) => {
-      const songs = await querySong(name)
-      let song: SongInfo
-      if (!songs?.length) return session.text('.no-song')
-      if (songs.length === 1) song = songs[0]
-      else {
-        await session.send(
-          h('message', { forward: true }, [
-            h('message', [h.i18n('.select-song-prompt')]),
-            ...songs.map((s, i) => h('message', [`${i + 1}. ${s.name} ${s.artist}`])),
-          ]))
-        const index = +await session.prompt()
-        if (!index) return session.text('.cancel')
-        song = songs[index - 1]
-      }
+      const song = await querySong(name, session)
 
       await session.send(session.text('.alias-prompt'))
       const alias = await session.prompt()
-
       if (!alias) return session.text('.cancel')
-
       await setAilas(alias, song.id)
 
       return session.text('.success', [song.name, alias])
     })
 
-  const listAlias = ctx.command
+  const listAlias = ctx.command('phigros.list-alias <name:text>')
+    .action(async ({ session }, name) => {
+      const song = await querySong(name, session)
+      const alias = await ctx.database.get('phigros_alias_v2', { songId: song.id })
+      return h('', [
+        h.i18n('.alias', [song.name]),
+        ...alias.map(a => h('p', [a.alias]))
+      ])
+    })
 
   const score = ctx.command('phigros.score <name:text>', { checkArgCount: true })
     .userFields(['phiToken'])
     .action(async ({ session }, name) => {
       if (!session.user.phiToken) return session.text('.no-token')
 
-      const songs = await querySong(name)
-      let song: SongInfo
-      if (!songs?.length) return session.text('.no-song')
-      if (songs.length === 1) song = songs[0]
-      else {
-        await session.send(
-          h('message', { forward: true }, [
-            h('message', [h.i18n('.select-song-prompt')]),
-            ...songs.map((s, i) => h('message', [`${i + 1}. ${s.name} ${s.artist}`])),
-          ]))
-        const index = +await session.prompt()
-        if (!index) return session.text('.cancel')
-        song = songs[index - 1]
-      }
-
+      const song = await querySong(name, session)
       const save = await api.record(session.user.phiToken)
       const record = save.find(([k]) => k == song.id)
 
@@ -175,6 +168,7 @@ export function apply(ctx: Context, config: Config) {
     unbind.shortcut('unbind', { i18n: true })
     bind.shortcut('bind', { i18n: true, fuzzy: true })
     alias.shortcut('alias', { i18n: true, fuzzy: true })
+    listAlias.shortcut('list-alias', { i18n: true, fuzzy: true })
     score.shortcut('score', { i18n: true, fuzzy: true })
     b19.shortcut('b19', { i18n: true })
   }
