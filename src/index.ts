@@ -9,7 +9,7 @@ declare module 'koishi' {
   }
 
   interface Tables {
-    phigros_alias_v2: {
+    phigros_alias_v3: {
       id: number
       alias: string
       songId: string
@@ -30,7 +30,7 @@ export const Config: Schema<Config> = Schema.object({
 export function apply(ctx: Context, config: Config) {
   const api = new API(ctx)
   const querySong = async (alias: string, session: Session): Promise<SongInfo> => {
-    const matchs = await ctx.database.get('phigros_alias_v2', { alias: { $regex: alias.toLowerCase() } })
+    const matchs = await ctx.database.get('phigros_alias_v3', { alias: { $regex: alias.toLowerCase() } })
       .then(a => deduplicate(a.map(a => a.songId)))
     const songs = await api.songsInfo()
       .then(i => i.filter(s => matchs.includes(s.id)))
@@ -52,8 +52,8 @@ export function apply(ctx: Context, config: Config) {
 
   const setAilas = async (alias: string, songId: string) => {
     const query = { alias: alias.toLowerCase(), songId }
-    if (ctx.database.get('phigros_alias_v2', query)[0]) throw new Error('alias exist.')
-    return ctx.database.create('phigros_alias_v2', query)
+    const [exist] = await ctx.database.get('phigros_alias_v3', query)
+    if (!exist) await ctx.database.create('phigros_alias_v3', query)
   }
 
   ctx.i18n.define('zh', require('./locales/zh-CN'))
@@ -65,7 +65,7 @@ export function apply(ctx: Context, config: Config) {
     }
   })
 
-  ctx.database.extend('phigros_alias_v2', {
+  ctx.database.extend('phigros_alias_v3', {
     id: 'unsigned',
     alias: 'string',
     songId: {
@@ -115,7 +115,7 @@ export function apply(ctx: Context, config: Config) {
   const listAlias = ctx.command('phigros.list-alias <name:text>')
     .action(async ({ session }, name) => {
       const song = await querySong(name, session)
-      const alias = await ctx.database.get('phigros_alias_v2', { songId: song.id })
+      const alias = await ctx.database.get('phigros_alias_v3', { songId: song.id })
       return h('', [
         h.i18n('.alias', [song.name]),
         ...alias.map(a => h('p', [a.alias]))
