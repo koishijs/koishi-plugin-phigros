@@ -141,8 +141,7 @@ export function apply(ctx: Context, config: Config) {
       }
 
       const save = await api.record(session.user.phiToken)
-      const iName = getIName(song.name, song.artist).toLocaleLowerCase()
-      const record = save.find(([k]) => k.toLocaleLowerCase() === iName)
+      const record = save.find(([k]) => k == song.id)
 
       if (!record) return session.text('.no-record')
 
