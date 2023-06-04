@@ -1,5 +1,5 @@
-import { Context, Schema, deduplicate } from 'koishi'
-import { API, tokenPattern, getSongInternalName as getIName, rks } from './api'
+import { Context, Schema, deduplicate, h } from 'koishi'
+import { API, tokenPattern, rks } from './api'
 import { SongInfo } from './types'
 import { renderB19, renderScore } from './renderer'
 
@@ -93,17 +93,15 @@ export function apply(ctx: Context, config: Config) {
       if (!songs?.length) return session.text('.no-song')
       if (songs.length === 1) song = songs[0]
       else {
-        await session.send(<message forward>
-          <message>
-            <i18n path=".select-song-prompt" />
-          </message>
-          {songs.map((v, i) => <message>{`${i + 1}. ${v.name} ${v.artist}`}</message>)}
-        </message>)
+        await session.send(
+          h('message', { forward: true }, [
+            h('message', [h.i18n('.select-song-prompt')]),
+            ...songs.map((s, i) => h('message', [`${i + 1}. ${s.name} ${s.artist}`])),
+          ]))
         const index = +await session.prompt()
         if (!index) return session.text('.cancel')
         song = songs[index - 1]
       }
-
 
       await session.send(session.text('.alias-prompt'))
       const alias = await session.prompt()
@@ -115,6 +113,8 @@ export function apply(ctx: Context, config: Config) {
       return session.text('.success', [song.name, alias])
     })
 
+  const listAlias = ctx.command
+
   const score = ctx.command('phigros.score <name:text>', { checkArgCount: true })
     .userFields(['phiToken'])
     .action(async ({ session }, name) => {
@@ -125,12 +125,11 @@ export function apply(ctx: Context, config: Config) {
       if (!songs?.length) return session.text('.no-song')
       if (songs.length === 1) song = songs[0]
       else {
-        await session.send(<message forward>
-          <message>
-            {session.text('.select-song-prompt')}
-          </message>
-          {songs.map((v, i) => <message>{i + 1}. {v.name} {v.artist}</message>)}
-        </message>)
+        await session.send(
+          h('message', { forward: true }, [
+            h('message', [h.i18n('.select-song-prompt')]),
+            ...songs.map((s, i) => h('message', [`${i + 1}. ${s.name} ${s.artist}`])),
+          ]))
         const index = +await session.prompt()
         if (!index) return session.text('.cancel')
         song = songs[index - 1]
