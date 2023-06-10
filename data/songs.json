@@ -5100,5 +5100,173 @@
     "thumbnail": "https://img.moegirl.org.cn/common/thumb/1/13/Introduction.png/300px-Introduction.png",
     "illustrator": "L-sp4",
     "id": "Introduction.姜米條ElousFZ"
+  },
+  {
+    "name": "神話",
+    "artist": "Pica & M2U",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.0,
+        "combo": 289,
+        "charter": "雑"
+      },
+      "HD": {
+        "level": 9,
+        "difficulty": 9.2,
+        "combo": 433,
+        "charter": "波"
+      },
+      "IN": {
+        "level": 13,
+        "difficulty": 13.6,
+        "combo": 735,
+        "charter": "P & U"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/2/2b/%E7%A5%9E%E8%A9%B1_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/2/2b/%E7%A5%9E%E8%A9%B1_Phigros.png/300px-%E7%A5%9E%E8%A9%B1_Phigros.png",
+    "illustrator": "mology (青鸟&V17AMax Modified)",
+    "id": "神話.PicaM2U"
+  },
+  {
+    "name": "El último baile",
+    "artist": "Θ",
+    "chart": {
+      "EZ": {
+        "level": 5,
+        "difficulty": 5.0,
+        "combo": 261,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.4,
+        "combo": 477,
+        "charter": "Barbarianerman"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.3,
+        "combo": 610,
+        "charter": "百九十八 feat. Likey"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/a/a9/El_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/a/a9/El_Phigros.png/300px-El_Phigros.png",
+    "illustrator": "mology (青鸟&V17AMax Modified)",
+    "id": "Elúltimobaile.Θ"
+  },
+  {
+    "name": "Trojan",
+    "artist": "litmus*",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 345,
+        "charter": "M3d1uM"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.8,
+        "combo": 741,
+        "charter": "M3d1uM"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.8,
+        "combo": 1305,
+        "charter": "Warning: XMT is infected by Trojan!!"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/68/Trojan_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/68/Trojan_Phigros.png/300px-Trojan_Phigros.png",
+    "illustrator": "Lapelristar (青鸟&V17AMax Modified)",
+    "id": "Trojan.litmus"
+  },
+  {
+    "name": "Temporal Shifting",
+    "artist": "Lure Rabbit & V!C",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.0,
+        "combo": 127,
+        "charter": "Su1fuR"
+      },
+      "HD": {
+        "level": 11,
+        "difficulty": 11.5,
+        "combo": 465,
+        "charter": "Su1fuR"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.2,
+        "combo": 959,
+        "charter": "Gausbon vs. 阿爽"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/5/55/Temporal_Shifting_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/5/55/Temporal_Shifting_Phigros.png/300px-Temporal_Shifting_Phigros.png",
+    "illustrator": "mology (青鸟&V17AMax Modified)",
+    "id": "TemporalShifting.LureRabbitVC"
+  },
+  {
+    "name": "Ad astra per aspera",
+    "artist": "Rabbit House",
+    "chart": {
+      "EZ": {
+        "level": 6,
+        "difficulty": 6.0,
+        "combo": 696,
+        "charter": "Barbarianerman"
+      },
+      "HD": {
+        "level": 12,
+        "difficulty": 12.1,
+        "combo": 924,
+        "charter": "XMT小咩兔"
+      },
+      "IN": {
+        "level": 15,
+        "difficulty": 15.8,
+        "combo": 1454,
+        "charter": "Hara小兔组"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/6/60/Ad_astra_per_aspera_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/6/60/Ad_astra_per_aspera_Phigros.png/300px-Ad_astra_per_aspera_Phigros.png",
+    "illustrator": "Ferdinant (青鸟&V17AMax Modified)",
+    "id": "Adastraperaspera.RabbitHouse"
+  },
+  {
+    "name": "A journey to the moonlight",
+    "artist": "Yesod",
+    "chart": {
+      "EZ": {
+        "level": 4,
+        "difficulty": 4.5,
+        "combo": 242,
+        "charter": "Rikko from 「PHIGROS MOON」"
+      },
+      "HD": {
+        "level": 10,
+        "difficulty": 10.7,
+        "combo": 555,
+        "charter": "Rikko from 「PHIGROS MOON」"
+      },
+      "IN": {
+        "level": 14,
+        "difficulty": 14.5,
+        "combo": 1181,
+        "charter": "Ner & 198 from 「PHIGROS MOON」"
+      }
+    },
+    "illustration": "https://img.moegirl.org.cn/common/0/00/A_journey_to_the_moonlight_Phigros.png",
+    "thumbnail": "https://img.moegirl.org.cn/common/thumb/0/00/A_journey_to_the_moonlight_Phigros.png/300px-A_journey_to_the_moonlight_Phigros.png",
+    "illustrator": "汉堡",
+    "id": "Ajourneytothemoonlight.Yesod"
   }
 ]
